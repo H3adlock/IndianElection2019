@@ -1,0 +1,4312 @@
+[
+  {
+    "candidates": [
+      {
+        "candidate_name": "ayan mandal",
+        "paty_name": "all india trinamool congress",
+        "evm_votes": 1717,
+        "post_votes": 4,
+        "total_votes": 1721,
+        "share": 0.83
+      },
+      {
+        "candidate_name": "kuldeep rai sharma",
+        "paty_name": "indian national congress",
+        "evm_votes": 95249,
+        "post_votes": 59,
+        "total_votes": 95308,
+        "share": 45.98
+      },
+      {
+        "candidate_name": "prakash minj",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 2478,
+        "post_votes": 8,
+        "total_votes": 2486,
+        "share": 1.2
+      },
+      {
+        "candidate_name": "vishal jolly",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 93772,
+        "post_votes": 129,
+        "total_votes": 93901,
+        "share": 45.3
+      },
+      {
+        "candidate_name": "sanjay meshack",
+        "paty_name": "aam aadmi party",
+        "evm_votes": 2837,
+        "post_votes": 2,
+        "total_votes": 2839,
+        "share": 1.37
+      },
+      {
+        "candidate_name": "c g saji kumar",
+        "paty_name": "all india hindustan congress party",
+        "evm_votes": 212,
+        "post_votes": 0,
+        "total_votes": 212,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "k kalimuthu",
+        "paty_name": "independent",
+        "evm_votes": 269,
+        "post_votes": 6,
+        "total_votes": 275,
+        "share": 0.13
+      },
+      {
+        "candidate_name": "v v khalid",
+        "paty_name": "independent",
+        "evm_votes": 305,
+        "post_votes": 1,
+        "total_votes": 306,
+        "share": 0.15
+      },
+      {
+        "candidate_name": "gour chandra majumder",
+        "paty_name": "independent",
+        "evm_votes": 221,
+        "post_votes": 0,
+        "total_votes": 221,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "paritosh kumar haldar",
+        "paty_name": "independent",
+        "evm_votes": 5339,
+        "post_votes": 2,
+        "total_votes": 5341,
+        "share": 2.58
+      },
+      {
+        "candidate_name": "minati biswas",
+        "paty_name": "independent",
+        "evm_votes": 615,
+        "post_votes": 3,
+        "total_votes": 618,
+        "share": 0.3
+      },
+      {
+        "candidate_name": "c u rasheed",
+        "paty_name": "independent",
+        "evm_votes": 272,
+        "post_votes": 1,
+        "total_votes": 273,
+        "share": 0.13
+      },
+      {
+        "candidate_name": "k venkat ram babu",
+        "paty_name": "independent",
+        "evm_votes": 914,
+        "post_votes": 0,
+        "total_votes": 914,
+        "share": 0.44
+      },
+      {
+        "candidate_name": "s sudershan rao",
+        "paty_name": "independent",
+        "evm_votes": 475,
+        "post_votes": 0,
+        "total_votes": 475,
+        "share": 0.23
+      },
+      {
+        "candidate_name": "henry",
+        "paty_name": "independent",
+        "evm_votes": 994,
+        "post_votes": 0,
+        "total_votes": 994,
+        "share": 0.48
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 1411,
+        "post_votes": 1,
+        "total_votes": 1412,
+        "share": 0.68
+      }
+    ],
+    "state": "andaman & nicobar islands",
+    "constituency": "andaman & nicobar islands",
+    "evm_total": 207080,
+    "post_total": 216,
+    "total": 207296
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "kirron kher",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 230967,
+        "post_votes": 221,
+        "total_votes": 231188,
+        "share": 50.64
+      },
+      {
+        "candidate_name": "pawan kumar bansal",
+        "paty_name": "indian national congress",
+        "evm_votes": 184117,
+        "post_votes": 101,
+        "total_votes": 184218,
+        "share": 40.35
+      },
+      {
+        "candidate_name": "parveen kumar",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 7391,
+        "post_votes": 5,
+        "total_votes": 7396,
+        "share": 1.62
+      },
+      {
+        "candidate_name": "avinash singh sharma",
+        "paty_name": "chandigarh ki aawaz party",
+        "evm_votes": 3182,
+        "post_votes": 4,
+        "total_votes": 3186,
+        "share": 0.7
+      },
+      {
+        "candidate_name": "gurmail singh",
+        "paty_name": "all india forward bloc",
+        "evm_votes": 164,
+        "post_votes": 0,
+        "total_votes": 164,
+        "share": 0.04
+      },
+      {
+        "candidate_name": "jagdish kumar nidan",
+        "paty_name": "hindustan shakti sena",
+        "evm_votes": 365,
+        "post_votes": 0,
+        "total_votes": 365,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "jyoti",
+        "paty_name": "akhil bhartiya apna dal",
+        "evm_votes": 209,
+        "post_votes": 0,
+        "total_votes": 209,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "nawab ali",
+        "paty_name": "rashtriya lokswaraj party",
+        "evm_votes": 158,
+        "post_votes": 0,
+        "total_votes": 158,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "bhupinder kaur",
+        "paty_name": "sarvjan sewa party",
+        "evm_votes": 143,
+        "post_votes": 0,
+        "total_votes": 143,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "mukesh pachara",
+        "paty_name": "ambedkar national congress",
+        "evm_votes": 245,
+        "post_votes": 0,
+        "total_votes": 245,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "yograj sahota",
+        "paty_name": "rashtriya jankranti party",
+        "evm_votes": 194,
+        "post_votes": 0,
+        "total_votes": 194,
+        "share": 0.04
+      },
+      {
+        "candidate_name": "ramneet",
+        "paty_name": "bhartiya kisan party",
+        "evm_votes": 285,
+        "post_votes": 0,
+        "total_votes": 285,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "lashkar singh",
+        "paty_name": "communist party of india (marxist-leninist) red star",
+        "evm_votes": 377,
+        "post_votes": 0,
+        "total_votes": 377,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "shambhu",
+        "paty_name": "samaj adhikar kalyan party",
+        "evm_votes": 658,
+        "post_votes": 0,
+        "total_votes": 658,
+        "share": 0.14
+      },
+      {
+        "candidate_name": "sharmila johari",
+        "paty_name": "bharat prabhat party",
+        "evm_votes": 531,
+        "post_votes": 0,
+        "total_votes": 531,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "satybir singh",
+        "paty_name": "bhartiya manavadhikaar federal party",
+        "evm_votes": 1578,
+        "post_votes": 0,
+        "total_votes": 1578,
+        "share": 0.35
+      },
+      {
+        "candidate_name": "sandeep bidla",
+        "paty_name": "bahujan mukti party",
+        "evm_votes": 919,
+        "post_votes": 1,
+        "total_votes": 920,
+        "share": 0.2
+      },
+      {
+        "candidate_name": "satish kumar",
+        "paty_name": "janral samaj party",
+        "evm_votes": 486,
+        "post_votes": 0,
+        "total_votes": 486,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "sarabjeet singh sohal",
+        "paty_name": "bhartiya rashtrawadi party",
+        "evm_votes": 461,
+        "post_votes": 0,
+        "total_votes": 461,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "sanjay balaan",
+        "paty_name": "bhartiya jan samman party",
+        "evm_votes": 452,
+        "post_votes": 0,
+        "total_votes": 452,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "subhash chander goyal",
+        "paty_name": "republican party of india (a)",
+        "evm_votes": 212,
+        "post_votes": 0,
+        "total_votes": 212,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "subhash tamoli",
+        "paty_name": "bahujan samaj party  (ambedkar)",
+        "evm_votes": 312,
+        "post_votes": 0,
+        "total_votes": 312,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "harmohan dhawan",
+        "paty_name": "aam aadmi party",
+        "evm_votes": 13767,
+        "post_votes": 14,
+        "total_votes": 13781,
+        "share": 3.02
+      },
+      {
+        "candidate_name": "akhlesh kumar",
+        "paty_name": "independent",
+        "evm_votes": 206,
+        "post_votes": 0,
+        "total_votes": 206,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "uday raj",
+        "paty_name": "independent",
+        "evm_votes": 156,
+        "post_votes": 0,
+        "total_votes": 156,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "karan vasudeva",
+        "paty_name": "independent",
+        "evm_votes": 136,
+        "post_votes": 0,
+        "total_votes": 136,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "tejinder singh walia",
+        "paty_name": "independent",
+        "evm_votes": 319,
+        "post_votes": 1,
+        "total_votes": 320,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "devi sirohi",
+        "paty_name": "independent",
+        "evm_votes": 428,
+        "post_votes": 0,
+        "total_votes": 428,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "nidhi kansal",
+        "paty_name": "independent",
+        "evm_votes": 569,
+        "post_votes": 0,
+        "total_votes": 569,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "prem lata",
+        "paty_name": "independent",
+        "evm_votes": 212,
+        "post_votes": 0,
+        "total_votes": 212,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "boota singh",
+        "paty_name": "independent",
+        "evm_votes": 392,
+        "post_votes": 0,
+        "total_votes": 392,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "manjeet singh bohat",
+        "paty_name": "independent",
+        "evm_votes": 1062,
+        "post_votes": 0,
+        "total_votes": 1062,
+        "share": 0.23
+      },
+      {
+        "candidate_name": "yogesh dhingra",
+        "paty_name": "independent",
+        "evm_votes": 731,
+        "post_votes": 0,
+        "total_votes": 731,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "raj kamal singh",
+        "paty_name": "independent",
+        "evm_votes": 289,
+        "post_votes": 0,
+        "total_votes": 289,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "ram kumar",
+        "paty_name": "independent",
+        "evm_votes": 101,
+        "post_votes": 0,
+        "total_votes": 101,
+        "share": 0.02
+      },
+      {
+        "candidate_name": "sunita",
+        "paty_name": "independent",
+        "evm_votes": 112,
+        "post_votes": 0,
+        "total_votes": 112,
+        "share": 0.02
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 4321,
+        "post_votes": 14,
+        "total_votes": 4335,
+        "share": 0.95
+      }
+    ],
+    "state": "chandigarh",
+    "constituency": "chandigarh",
+    "evm_total": 456207,
+    "post_total": 361,
+    "total": 456568
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "tokiya prabhubhai",
+        "paty_name": "indian national congress",
+        "evm_votes": 8608,
+        "post_votes": 0,
+        "total_votes": 8608,
+        "share": 4.33
+      },
+      {
+        "candidate_name": "dongarkar ishwarbhai gopjibhai",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 948,
+        "post_votes": 0,
+        "total_votes": 948,
+        "share": 0.48
+      },
+      {
+        "candidate_name": "patel natubhai gomanbhai",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 81384,
+        "post_votes": 36,
+        "total_votes": 81420,
+        "share": 40.92
+      },
+      {
+        "candidate_name": "janathiya pravinbhai ladakbhai",
+        "paty_name": "bahujan mukti party",
+        "evm_votes": 1596,
+        "post_votes": 0,
+        "total_votes": 1596,
+        "share": 0.8
+      },
+      {
+        "candidate_name": "patel ankita amrutbhai",
+        "paty_name": "shivsena",
+        "evm_votes": 4000,
+        "post_votes": 0,
+        "total_votes": 4000,
+        "share": 2.01
+      },
+      {
+        "candidate_name": "bhikhlabhai vansabhai khulat",
+        "paty_name": "bhartiya tribal party",
+        "evm_votes": 843,
+        "post_votes": 0,
+        "total_votes": 843,
+        "share": 0.42
+      },
+      {
+        "candidate_name": "halpati rajeshbhai bhanabhai",
+        "paty_name": "navsarjan bharat party",
+        "evm_votes": 1160,
+        "post_votes": 0,
+        "total_votes": 1160,
+        "share": 0.58
+      },
+      {
+        "candidate_name": "kurada deepakbhai",
+        "paty_name": "independent",
+        "evm_votes": 3630,
+        "post_votes": 0,
+        "total_votes": 3630,
+        "share": 1.82
+      },
+      {
+        "candidate_name": "delkar mohanbhai sanjibhai",
+        "paty_name": "independent",
+        "evm_votes": 90399,
+        "post_votes": 22,
+        "total_votes": 90421,
+        "share": 45.44
+      },
+      {
+        "candidate_name": "dayat manoj ranchod",
+        "paty_name": "independent",
+        "evm_votes": 2287,
+        "post_votes": 0,
+        "total_votes": 2287,
+        "share": 1.15
+      },
+      {
+        "candidate_name": "patel dhirubhai chhotubhai",
+        "paty_name": "independent",
+        "evm_votes": 1120,
+        "post_votes": 0,
+        "total_votes": 1120,
+        "share": 0.56
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 2950,
+        "post_votes": 0,
+        "total_votes": 2950,
+        "share": 1.48
+      }
+    ],
+    "state": "dadra & nagar haveli",
+    "constituency": "dadra and nagar haveli",
+    "evm_total": 198925,
+    "post_total": 58,
+    "total": 198983
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "ketan dahyabhai patel",
+        "paty_name": "indian national congress",
+        "evm_votes": 27643,
+        "post_votes": 12,
+        "total_votes": 27655,
+        "share": 31.62
+      },
+      {
+        "candidate_name": "lalubhai babubhai patel",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 37586,
+        "post_votes": 11,
+        "total_votes": 37597,
+        "share": 42.98
+      },
+      {
+        "candidate_name": "sakil latif khan",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 790,
+        "post_votes": 2,
+        "total_votes": 792,
+        "share": 0.91
+      },
+      {
+        "candidate_name": "patel umeshbhai babubhai",
+        "paty_name": "independent",
+        "evm_votes": 19935,
+        "post_votes": 3,
+        "total_votes": 19938,
+        "share": 22.79
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 1487,
+        "post_votes": 0,
+        "total_votes": 1487,
+        "share": 1.7
+      }
+    ],
+    "state": "daman & diu",
+    "constituency": "daman & diu",
+    "evm_total": 87441,
+    "post_total": 28,
+    "total": 87469
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "ramesh bidhuri",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 685789,
+        "post_votes": 1225,
+        "total_votes": 687014,
+        "share": 56.58
+      },
+      {
+        "candidate_name": "raghav chadha",
+        "paty_name": "aam aadmi party",
+        "evm_votes": 319770,
+        "post_votes": 201,
+        "total_votes": 319971,
+        "share": 26.35
+      },
+      {
+        "candidate_name": "vijender",
+        "paty_name": "indian national congress",
+        "evm_votes": 164394,
+        "post_votes": 219,
+        "total_votes": 164613,
+        "share": 13.56
+      },
+      {
+        "candidate_name": "siddhant gautam",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 14721,
+        "post_votes": 40,
+        "total_votes": 14761,
+        "share": 1.22
+      },
+      {
+        "candidate_name": "aditya kumar naveen",
+        "paty_name": "hum bhartiya party",
+        "evm_votes": 3892,
+        "post_votes": 0,
+        "total_votes": 3892,
+        "share": 0.32
+      },
+      {
+        "candidate_name": "d. k. chopra",
+        "paty_name": "all india forward bloc",
+        "evm_votes": 366,
+        "post_votes": 1,
+        "total_votes": 367,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "jitendra sharma",
+        "paty_name": "prism",
+        "evm_votes": 200,
+        "post_votes": 0,
+        "total_votes": 200,
+        "share": 0.02
+      },
+      {
+        "candidate_name": "dalbir singh malik",
+        "paty_name": "voters party  international",
+        "evm_votes": 314,
+        "post_votes": 0,
+        "total_votes": 314,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "dilip kumar",
+        "paty_name": "sanatan sanskriti raksha dal",
+        "evm_votes": 472,
+        "post_votes": 1,
+        "total_votes": 473,
+        "share": 0.04
+      },
+      {
+        "candidate_name": "deepak kumar",
+        "paty_name": "aapki apni party (peoples)",
+        "evm_votes": 929,
+        "post_votes": 0,
+        "total_votes": 929,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "desh kumar",
+        "paty_name": "akhil bharatiya jan sangh",
+        "evm_votes": 403,
+        "post_votes": 0,
+        "total_votes": 403,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "navanit",
+        "paty_name": "national youth party",
+        "evm_votes": 334,
+        "post_votes": 0,
+        "total_votes": 334,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "mahender singh churiyana",
+        "paty_name": "peoples party of india (democratic)",
+        "evm_votes": 1019,
+        "post_votes": 0,
+        "total_votes": 1019,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "mathews",
+        "paty_name": "bhartiya insan party",
+        "evm_votes": 1139,
+        "post_votes": 0,
+        "total_votes": 1139,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "mohan kumar gupta",
+        "paty_name": "mazdoor kirayedar vikas party",
+        "evm_votes": 969,
+        "post_votes": 0,
+        "total_votes": 969,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "rajendra prasad gupta",
+        "paty_name": "parivartan samaj party",
+        "evm_votes": 1897,
+        "post_votes": 0,
+        "total_votes": 1897,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "ram khilawan",
+        "paty_name": "proutist bloc, india",
+        "evm_votes": 2541,
+        "post_votes": 0,
+        "total_votes": 2541,
+        "share": 0.21
+      },
+      {
+        "candidate_name": "k. roshan kumar",
+        "paty_name": "pyramid party of india",
+        "evm_votes": 1399,
+        "post_votes": 0,
+        "total_votes": 1399,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "suman yadav",
+        "paty_name": "jai maha bharath party",
+        "evm_votes": 1531,
+        "post_votes": 6,
+        "total_votes": 1537,
+        "share": 0.13
+      },
+      {
+        "candidate_name": "sumedha bodh",
+        "paty_name": "jan samman party",
+        "evm_votes": 1708,
+        "post_votes": 0,
+        "total_votes": 1708,
+        "share": 0.14
+      },
+      {
+        "candidate_name": "sobran singh chauhan",
+        "paty_name": "rashtriya rashtrawadi party",
+        "evm_votes": 278,
+        "post_votes": 0,
+        "total_votes": 278,
+        "share": 0.02
+      },
+      {
+        "candidate_name": "sandeep gupta",
+        "paty_name": "rashtriya jan  adhikar party",
+        "evm_votes": 370,
+        "post_votes": 0,
+        "total_votes": 370,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "nausha khan",
+        "paty_name": "independent",
+        "evm_votes": 214,
+        "post_votes": 1,
+        "total_votes": 215,
+        "share": 0.02
+      },
+      {
+        "candidate_name": "birju nayak",
+        "paty_name": "independent",
+        "evm_votes": 390,
+        "post_votes": 0,
+        "total_votes": 390,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "roshan kumar choudhary",
+        "paty_name": "independent",
+        "evm_votes": 731,
+        "post_votes": 0,
+        "total_votes": 731,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "sunil kumar",
+        "paty_name": "independent",
+        "evm_votes": 390,
+        "post_votes": 0,
+        "total_votes": 390,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "harsh nath verma",
+        "paty_name": "independent",
+        "evm_votes": 1104,
+        "post_votes": 0,
+        "total_votes": 1104,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 5247,
+        "post_votes": 17,
+        "total_votes": 5264,
+        "share": 0.43
+      }
+    ],
+    "state": "nct of delhi",
+    "constituency": "south delhi",
+    "evm_total": 1212511,
+    "post_total": 1711,
+    "total": 1214222
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "abdul khader haji",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 103,
+        "post_votes": 22,
+        "total_votes": 125,
+        "share": 0.27
+      },
+      {
+        "candidate_name": "ali akbar k.",
+        "paty_name": "communist party of india",
+        "evm_votes": 141,
+        "post_votes": 2,
+        "total_votes": 143,
+        "share": 0.3
+      },
+      {
+        "candidate_name": "mohammed faizal pp",
+        "paty_name": "nationalist congress party",
+        "evm_votes": 22796,
+        "post_votes": 55,
+        "total_votes": 22851,
+        "share": 48.61
+      },
+      {
+        "candidate_name": "shareef khan",
+        "paty_name": "communist party of india  (marxist)",
+        "evm_votes": 419,
+        "post_votes": 1,
+        "total_votes": 420,
+        "share": 0.89
+      },
+      {
+        "candidate_name": "hamdullah sayeed",
+        "paty_name": "indian national congress",
+        "evm_votes": 21980,
+        "post_votes": 48,
+        "total_votes": 22028,
+        "share": 46.86
+      },
+      {
+        "candidate_name": "dr. mohammed sadique kp",
+        "paty_name": "janata dal  (united)",
+        "evm_votes": 1339,
+        "post_votes": 3,
+        "total_votes": 1342,
+        "share": 2.85
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 99,
+        "post_votes": 1,
+        "total_votes": 100,
+        "share": 0.21
+      }
+    ],
+    "state": "lakshadweep",
+    "constituency": "lakshadweep",
+    "evm_total": 46877,
+    "post_total": 132,
+    "total": 47009
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "dr. narayanasamy kesavan",
+        "paty_name": "all india n.r. congress",
+        "evm_votes": 247844,
+        "post_votes": 112,
+        "total_votes": 247956,
+        "share": 31.36
+      },
+      {
+        "candidate_name": "a.g.pathimaraj",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 2685,
+        "post_votes": 4,
+        "total_votes": 2689,
+        "share": 0.34
+      },
+      {
+        "candidate_name": "ve. vaithilingam",
+        "paty_name": "indian national congress",
+        "evm_votes": 444646,
+        "post_votes": 335,
+        "total_votes": 444981,
+        "share": 56.27
+      },
+      {
+        "candidate_name": "k.arunachalam",
+        "paty_name": "agila india makkal kazhagam",
+        "evm_votes": 2199,
+        "post_votes": 2,
+        "total_votes": 2201,
+        "share": 0.28
+      },
+      {
+        "candidate_name": "dr.m.a.s. subramanian",
+        "paty_name": "makkal needhi maiam",
+        "evm_votes": 38046,
+        "post_votes": 22,
+        "total_votes": 38068,
+        "share": 4.81
+      },
+      {
+        "candidate_name": "s. thirugnanam",
+        "paty_name": "anti corruption dynamic party",
+        "evm_votes": 673,
+        "post_votes": 1,
+        "total_votes": 674,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "baskaran.s",
+        "paty_name": "puducherry development  party",
+        "evm_votes": 1318,
+        "post_votes": 1,
+        "total_votes": 1319,
+        "share": 0.17
+      },
+      {
+        "candidate_name": "muthu.u",
+        "paty_name": "socialist unity centre of india (communist)",
+        "evm_votes": 1285,
+        "post_votes": 0,
+        "total_votes": 1285,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "s.mothilal",
+        "paty_name": "communist party of india  (marxist-leninist)  (liberation)",
+        "evm_votes": 904,
+        "post_votes": 1,
+        "total_votes": 905,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "n.sharmila begum",
+        "paty_name": "naam tamilar katchi",
+        "evm_votes": 22842,
+        "post_votes": 15,
+        "total_votes": 22857,
+        "share": 2.89
+      },
+      {
+        "candidate_name": "k. ramadoss",
+        "paty_name": "independent",
+        "evm_votes": 542,
+        "post_votes": 1,
+        "total_votes": 543,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "krishnamurthy.m",
+        "paty_name": "independent",
+        "evm_votes": 3579,
+        "post_votes": 0,
+        "total_votes": 3579,
+        "share": 0.45
+      },
+      {
+        "candidate_name": "thangavelu.s",
+        "paty_name": "independent",
+        "evm_votes": 1002,
+        "post_votes": 0,
+        "total_votes": 1002,
+        "share": 0.13
+      },
+      {
+        "candidate_name": "n. tamizh marane",
+        "paty_name": "independent",
+        "evm_votes": 4785,
+        "post_votes": 6,
+        "total_votes": 4791,
+        "share": 0.61
+      },
+      {
+        "candidate_name": "tiravitamankai@lourdhumary",
+        "paty_name": "independent",
+        "evm_votes": 870,
+        "post_votes": 0,
+        "total_votes": 870,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "ims. balaji",
+        "paty_name": "independent",
+        "evm_votes": 2546,
+        "post_votes": 0,
+        "total_votes": 2546,
+        "share": 0.32
+      },
+      {
+        "candidate_name": "ramesh.d",
+        "paty_name": "independent",
+        "evm_votes": 1653,
+        "post_votes": 0,
+        "total_votes": 1653,
+        "share": 0.21
+      },
+      {
+        "candidate_name": "v. ramamurthi",
+        "paty_name": "independent",
+        "evm_votes": 641,
+        "post_votes": 1,
+        "total_votes": 642,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 12192,
+        "post_votes": 7,
+        "total_votes": 12199,
+        "share": 1.54
+      }
+    ],
+    "state": "puducherry",
+    "constituency": "puducherry",
+    "evm_total": 790252,
+    "post_total": 508,
+    "total": 790760
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "cheemala. rangappa",
+        "paty_name": "indian national congress",
+        "evm_votes": 24497,
+        "post_votes": 146,
+        "total_votes": 24643,
+        "share": 1.87
+      },
+      {
+        "candidate_name": "jayaram duggani",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 10137,
+        "post_votes": 359,
+        "total_votes": 10496,
+        "share": 0.8
+      },
+      {
+        "candidate_name": "naramalli siva prasad",
+        "paty_name": "telugu desam",
+        "evm_votes": 545374,
+        "post_votes": 4147,
+        "total_votes": 549521,
+        "share": 41.65
+      },
+      {
+        "candidate_name": "c. punyamurthy",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 19952,
+        "post_votes": 110,
+        "total_votes": 20062,
+        "share": 1.52
+      },
+      {
+        "candidate_name": "n. reddeppa",
+        "paty_name": "yuvajana sramika rythu congress party",
+        "evm_votes": 681325,
+        "post_votes": 5467,
+        "total_votes": 686792,
+        "share": 52.05
+      },
+      {
+        "candidate_name": "pallipattu. abhinav vishnu",
+        "paty_name": "mundadugu praja party",
+        "evm_votes": 3441,
+        "post_votes": 4,
+        "total_votes": 3445,
+        "share": 0.26
+      },
+      {
+        "candidate_name": "p. ramachandran",
+        "paty_name": "independent",
+        "evm_votes": 1854,
+        "post_votes": 9,
+        "total_votes": 1863,
+        "share": 0.14
+      },
+      {
+        "candidate_name": "a. hemanth",
+        "paty_name": "independent",
+        "evm_votes": 2089,
+        "post_votes": 5,
+        "total_votes": 2094,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 20503,
+        "post_votes": 53,
+        "total_votes": 20556,
+        "share": 1.56
+      }
+    ],
+    "state": "andhra pradesh",
+    "constituency": "chittoor",
+    "evm_total": 1309172,
+    "post_total": 10300,
+    "total": 1319472
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "lowangcha wanglat",
+        "paty_name": "indian national congress",
+        "evm_votes": 80378,
+        "post_votes": 3557,
+        "total_votes": 83935,
+        "share": 28.57
+      },
+      {
+        "candidate_name": "mongol yomso",
+        "paty_name": "people's party of arunachal",
+        "evm_votes": 22160,
+        "post_votes": 777,
+        "total_votes": 22937,
+        "share": 7.81
+      },
+      {
+        "candidate_name": "tapir gao",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 148567,
+        "post_votes": 5316,
+        "total_votes": 153883,
+        "share": 52.38
+      },
+      {
+        "candidate_name": "bandey mili",
+        "paty_name": "janata dal  (secular)",
+        "evm_votes": 15304,
+        "post_votes": 654,
+        "total_votes": 15958,
+        "share": 5.43
+      },
+      {
+        "candidate_name": "c. c. singpho",
+        "paty_name": "independent",
+        "evm_votes": 10955,
+        "post_votes": 538,
+        "total_votes": 11493,
+        "share": 3.91
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 5490,
+        "post_votes": 85,
+        "total_votes": 5575,
+        "share": 1.9
+      }
+    ],
+    "state": "arunachal pradesh",
+    "constituency": "arunachal east",
+    "evm_total": 282854,
+    "post_total": 10927,
+    "total": 293781
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "anil borgohain",
+        "paty_name": "indian national congress",
+        "evm_votes": 425002,
+        "post_votes": 853,
+        "total_votes": 425855,
+        "share": 33.18
+      },
+      {
+        "candidate_name": "anup pratim borbaruah",
+        "paty_name": "nationalist congress party",
+        "evm_votes": 4463,
+        "post_votes": 64,
+        "total_votes": 4527,
+        "share": 0.35
+      },
+      {
+        "candidate_name": "amiya kumar handique",
+        "paty_name": "communist party of india  (marxist)",
+        "evm_votes": 12746,
+        "post_votes": 63,
+        "total_votes": 12809,
+        "share": 1.0
+      },
+      {
+        "candidate_name": "arup kalita",
+        "paty_name": "communist party of india",
+        "evm_votes": 13357,
+        "post_votes": 21,
+        "total_votes": 13378,
+        "share": 1.04
+      },
+      {
+        "candidate_name": "pradan baruah",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 774017,
+        "post_votes": 2389,
+        "total_votes": 776406,
+        "share": 60.49
+      },
+      {
+        "candidate_name": "ubaidur rahman",
+        "paty_name": "asom jana morcha",
+        "evm_votes": 8738,
+        "post_votes": 0,
+        "total_votes": 8738,
+        "share": 0.68
+      },
+      {
+        "candidate_name": "dilip moran",
+        "paty_name": "assam dristi party",
+        "evm_votes": 8196,
+        "post_votes": 89,
+        "total_votes": 8285,
+        "share": 0.65
+      },
+      {
+        "candidate_name": "bhupen narah",
+        "paty_name": "voters party  international",
+        "evm_votes": 5566,
+        "post_votes": 15,
+        "total_votes": 5581,
+        "share": 0.43
+      },
+      {
+        "candidate_name": "hem kanta miri",
+        "paty_name": "socialist unity centre of india (communist)",
+        "evm_votes": 4009,
+        "post_votes": 25,
+        "total_votes": 4034,
+        "share": 0.31
+      },
+      {
+        "candidate_name": "ambaz uddin",
+        "paty_name": "independent",
+        "evm_votes": 3889,
+        "post_votes": 1,
+        "total_votes": 3890,
+        "share": 0.3
+      },
+      {
+        "candidate_name": "probhu lal vaisnava",
+        "paty_name": "independent",
+        "evm_votes": 4858,
+        "post_votes": 8,
+        "total_votes": 4866,
+        "share": 0.38
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 15187,
+        "post_votes": 33,
+        "total_votes": 15220,
+        "share": 1.19
+      }
+    ],
+    "state": "assam",
+    "constituency": "lakhimpur",
+    "evm_total": 1280028,
+    "post_total": 3561,
+    "total": 1283589
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "upendra ravidas",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 31504,
+        "post_votes": 107,
+        "total_votes": 31611,
+        "share": 3.33
+      },
+      {
+        "candidate_name": "chirag kumar paswan",
+        "paty_name": "lok jan shakti party",
+        "evm_votes": 527860,
+        "post_votes": 1274,
+        "total_votes": 529134,
+        "share": 55.75
+      },
+      {
+        "candidate_name": "bhudeo choudhary",
+        "paty_name": "rashtriya lok samta party",
+        "evm_votes": 287805,
+        "post_votes": 280,
+        "total_votes": 288085,
+        "share": 30.35
+      },
+      {
+        "candidate_name": "ajay kumar",
+        "paty_name": "bhartiya dalit party",
+        "evm_votes": 8217,
+        "post_votes": 64,
+        "total_votes": 8281,
+        "share": 0.87
+      },
+      {
+        "candidate_name": "pankaj kumar das",
+        "paty_name": "socialist unity centre of india (communist)",
+        "evm_votes": 3996,
+        "post_votes": 8,
+        "total_votes": 4004,
+        "share": 0.42
+      },
+      {
+        "candidate_name": "valamiki pasavan",
+        "paty_name": "hindusthan nirman dal",
+        "evm_votes": 6551,
+        "post_votes": 3,
+        "total_votes": 6554,
+        "share": 0.69
+      },
+      {
+        "candidate_name": "vishnu priya",
+        "paty_name": "bahujan mukti party",
+        "evm_votes": 10598,
+        "post_votes": 27,
+        "total_votes": 10625,
+        "share": 1.12
+      },
+      {
+        "candidate_name": "virendra kumar",
+        "paty_name": "independent",
+        "evm_votes": 14611,
+        "post_votes": 17,
+        "total_votes": 14628,
+        "share": 1.54
+      },
+      {
+        "candidate_name": "subhash paswan",
+        "paty_name": "independent",
+        "evm_votes": 16714,
+        "post_votes": 5,
+        "total_votes": 16719,
+        "share": 1.76
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 39450,
+        "post_votes": 46,
+        "total_votes": 39496,
+        "share": 4.16
+      }
+    ],
+    "state": "bihar",
+    "constituency": "jamui (sc)",
+    "evm_total": 947306,
+    "post_total": 1831,
+    "total": 949137
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "cosme francisco caitano sardinha",
+        "paty_name": "indian national congress",
+        "evm_votes": 201279,
+        "post_votes": 282,
+        "total_votes": 201561,
+        "share": 47.47
+      },
+      {
+        "candidate_name": "adv. narendra sawaikar",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 191205,
+        "post_votes": 601,
+        "total_votes": 191806,
+        "share": 45.18
+      },
+      {
+        "candidate_name": "elvis gomes",
+        "paty_name": "aam aadmi party",
+        "evm_votes": 20876,
+        "post_votes": 15,
+        "total_votes": 20891,
+        "share": 4.92
+      },
+      {
+        "candidate_name": "rakhi amit naik",
+        "paty_name": "shivsena",
+        "evm_votes": 1761,
+        "post_votes": 2,
+        "total_votes": 1763,
+        "share": 0.42
+      },
+      {
+        "candidate_name": "dr. kalidas prakash vaingankar",
+        "paty_name": "independent",
+        "evm_votes": 1412,
+        "post_votes": 1,
+        "total_votes": 1413,
+        "share": 0.33
+      },
+      {
+        "candidate_name": "mayur khanconkar",
+        "paty_name": "independent",
+        "evm_votes": 1705,
+        "post_votes": 0,
+        "total_votes": 1705,
+        "share": 0.4
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 5419,
+        "post_votes": 17,
+        "total_votes": 5436,
+        "share": 1.28
+      }
+    ],
+    "state": "goa",
+    "constituency": "south goa",
+    "evm_total": 423657,
+    "post_total": 918,
+    "total": 424575
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "kishorbhai ramanbhai patel (rajubhai)",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 15344,
+        "post_votes": 15,
+        "total_votes": 15359,
+        "share": 1.22
+      },
+      {
+        "candidate_name": "chaudhari jitubhai harjibhai",
+        "paty_name": "indian national congress",
+        "evm_votes": 416310,
+        "post_votes": 1873,
+        "total_votes": 418183,
+        "share": 33.18
+      },
+      {
+        "candidate_name": "dr.k.c.patel",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 770442,
+        "post_votes": 1538,
+        "total_votes": 771980,
+        "share": 61.25
+      },
+      {
+        "candidate_name": "patel nareshbhai babubhai",
+        "paty_name": "sardar vallabhbhai patel party",
+        "evm_votes": 7173,
+        "post_votes": 5,
+        "total_votes": 7178,
+        "share": 0.57
+      },
+      {
+        "candidate_name": "patel pankajbhai lallubhai",
+        "paty_name": "bhartiya tribal party",
+        "evm_votes": 9488,
+        "post_votes": 48,
+        "total_votes": 9536,
+        "share": 0.76
+      },
+      {
+        "candidate_name": "babubhai chhaganbhai talaviya",
+        "paty_name": "bahujan mukti party",
+        "evm_votes": 2557,
+        "post_votes": 0,
+        "total_votes": 2557,
+        "share": 0.2
+      },
+      {
+        "candidate_name": "gaurangbhai rameshbhai patel",
+        "paty_name": "independent",
+        "evm_votes": 2983,
+        "post_votes": 14,
+        "total_votes": 2997,
+        "share": 0.24
+      },
+      {
+        "candidate_name": "ganvit jayendrabhai laxmanbhai",
+        "paty_name": "independent",
+        "evm_votes": 5817,
+        "post_votes": 2,
+        "total_votes": 5819,
+        "share": 0.46
+      },
+      {
+        "candidate_name": "patel umeshbhai maganbhai",
+        "paty_name": "independent",
+        "evm_votes": 7460,
+        "post_votes": 1,
+        "total_votes": 7461,
+        "share": 0.59
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 19264,
+        "post_votes": 43,
+        "total_votes": 19307,
+        "share": 1.53
+      }
+    ],
+    "state": "gujarat",
+    "constituency": "valsad",
+    "evm_total": 1256838,
+    "post_total": 3539,
+    "total": 1260377
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "avtar singh bhadana",
+        "paty_name": "indian national congress",
+        "evm_votes": 274755,
+        "post_votes": 228,
+        "total_votes": 274983,
+        "share": 20.72
+      },
+      {
+        "candidate_name": "krishan pal",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 910787,
+        "post_votes": 2435,
+        "total_votes": 913222,
+        "share": 68.8
+      },
+      {
+        "candidate_name": "mandhir maan",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 86694,
+        "post_votes": 58,
+        "total_votes": 86752,
+        "share": 6.54
+      },
+      {
+        "candidate_name": "mahender singh chauhan",
+        "paty_name": "indian national lok dal",
+        "evm_votes": 12035,
+        "post_votes": 35,
+        "total_votes": 12070,
+        "share": 0.91
+      },
+      {
+        "candidate_name": "baudhacharya khajan singh gautam",
+        "paty_name": "republican party of india",
+        "evm_votes": 462,
+        "post_votes": 1,
+        "total_votes": 463,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "chaudhary dayachand",
+        "paty_name": "bhartiya shakti chetna party",
+        "evm_votes": 336,
+        "post_votes": 3,
+        "total_votes": 339,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "deepak gaur",
+        "paty_name": "aarakshan virodhi party",
+        "evm_votes": 467,
+        "post_votes": 4,
+        "total_votes": 471,
+        "share": 0.04
+      },
+      {
+        "candidate_name": "pandit naveen jaihind",
+        "paty_name": "aam aadmi party",
+        "evm_votes": 11076,
+        "post_votes": 36,
+        "total_votes": 11112,
+        "share": 0.84
+      },
+      {
+        "candidate_name": "pradeep kumar",
+        "paty_name": "tola party",
+        "evm_votes": 330,
+        "post_votes": 0,
+        "total_votes": 330,
+        "share": 0.02
+      },
+      {
+        "candidate_name": "mahesh pratap sharma",
+        "paty_name": "rashtriya vikas party",
+        "evm_votes": 475,
+        "post_votes": 2,
+        "total_votes": 477,
+        "share": 0.04
+      },
+      {
+        "candidate_name": "mukesh kumar singh",
+        "paty_name": "lokpriya samaj party",
+        "evm_votes": 478,
+        "post_votes": 0,
+        "total_votes": 478,
+        "share": 0.04
+      },
+      {
+        "candidate_name": "rakesh kumar",
+        "paty_name": "aapki apni party (peoples)",
+        "evm_votes": 450,
+        "post_votes": 1,
+        "total_votes": 451,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "ramkishan gola",
+        "paty_name": "all india forward bloc",
+        "evm_votes": 1131,
+        "post_votes": 0,
+        "total_votes": 1131,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "ruby",
+        "paty_name": "hind congress party",
+        "evm_votes": 1190,
+        "post_votes": 2,
+        "total_votes": 1192,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "lekhram dabang",
+        "paty_name": "bahujan mukti party",
+        "evm_votes": 4773,
+        "post_votes": 0,
+        "total_votes": 4773,
+        "share": 0.36
+      },
+      {
+        "candidate_name": "vijendera kasana",
+        "paty_name": "bhartiya kisan party",
+        "evm_votes": 2687,
+        "post_votes": 1,
+        "total_votes": 2688,
+        "share": 0.2
+      },
+      {
+        "candidate_name": "shyamvir",
+        "paty_name": "rashtriya lokswaraj party",
+        "evm_votes": 3960,
+        "post_votes": 1,
+        "total_votes": 3961,
+        "share": 0.3
+      },
+      {
+        "candidate_name": "sahiram rawat",
+        "paty_name": "voters party",
+        "evm_votes": 2024,
+        "post_votes": 0,
+        "total_votes": 2024,
+        "share": 0.15
+      },
+      {
+        "candidate_name": "adv. hari shankar rajvans",
+        "paty_name": "adim bhartiya dal",
+        "evm_votes": 715,
+        "post_votes": 1,
+        "total_votes": 716,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "hari chand",
+        "paty_name": "peoples party of india (democratic)",
+        "evm_votes": 1369,
+        "post_votes": 1,
+        "total_votes": 1370,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "amit singh patel",
+        "paty_name": "independent",
+        "evm_votes": 370,
+        "post_votes": 1,
+        "total_votes": 371,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "tikaram hooda",
+        "paty_name": "independent",
+        "evm_votes": 249,
+        "post_votes": 0,
+        "total_votes": 249,
+        "share": 0.02
+      },
+      {
+        "candidate_name": "bobby kataria",
+        "paty_name": "independent",
+        "evm_votes": 392,
+        "post_votes": 1,
+        "total_votes": 393,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "manoj choudhary",
+        "paty_name": "independent",
+        "evm_votes": 438,
+        "post_votes": 1,
+        "total_votes": 439,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "c a shukla",
+        "paty_name": "independent",
+        "evm_votes": 389,
+        "post_votes": 0,
+        "total_votes": 389,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "sanjay maurya",
+        "paty_name": "independent",
+        "evm_votes": 801,
+        "post_votes": 1,
+        "total_votes": 802,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "dr k p singh",
+        "paty_name": "independent",
+        "evm_votes": 661,
+        "post_votes": 2,
+        "total_votes": 663,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 4973,
+        "post_votes": 13,
+        "total_votes": 4986,
+        "share": 0.38
+      }
+    ],
+    "state": "haryana",
+    "constituency": "faridabad",
+    "evm_total": 1324467,
+    "post_total": 2828,
+    "total": 1327295
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "dhani ram shandil",
+        "paty_name": "indian national congress",
+        "evm_votes": 277647,
+        "post_votes": 1021,
+        "total_votes": 278668,
+        "share": 30.5
+      },
+      {
+        "candidate_name": "vikram singh",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 7696,
+        "post_votes": 63,
+        "total_votes": 7759,
+        "share": 0.85
+      },
+      {
+        "candidate_name": "suresh kumar kashyap",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 601305,
+        "post_votes": 4877,
+        "total_votes": 606182,
+        "share": 66.35
+      },
+      {
+        "candidate_name": "manoj raghuvanshi",
+        "paty_name": "all india forward bloc",
+        "evm_votes": 5806,
+        "post_votes": 11,
+        "total_votes": 5817,
+        "share": 0.64
+      },
+      {
+        "candidate_name": "shamsher singh",
+        "paty_name": "rashtriya azad manch",
+        "evm_votes": 3209,
+        "post_votes": 7,
+        "total_votes": 3216,
+        "share": 0.35
+      },
+      {
+        "candidate_name": "ravi kumar dalit",
+        "paty_name": "independent",
+        "evm_votes": 3600,
+        "post_votes": 8,
+        "total_votes": 3608,
+        "share": 0.39
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 8305,
+        "post_votes": 52,
+        "total_votes": 8357,
+        "share": 0.91
+      }
+    ],
+    "state": "himachal pradesh",
+    "constituency": "shimla",
+    "evm_total": 907568,
+    "post_total": 6039,
+    "total": 913607
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "badri nath",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 14053,
+        "migrant_votes": 0,
+        "post_votes": 223,
+        "total_votes": 14276,
+        "share": 0.97
+      },
+      {
+        "candidate_name": "prof. bhim singh",
+        "paty_name": "jammu & kashmir national panthers party",
+        "evm_votes": 3705,
+        "migrant_votes": 0,
+        "post_votes": 311,
+        "total_votes": 4016,
+        "share": 0.27
+      },
+      {
+        "candidate_name": "jugal kishore",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 840214,
+        "migrant_votes": 0,
+        "post_votes": 17852,
+        "total_votes": 858066,
+        "share": 58.02
+      },
+      {
+        "candidate_name": "raman bhalla",
+        "paty_name": "indian national congress",
+        "evm_votes": 551187,
+        "migrant_votes": 0,
+        "post_votes": 4004,
+        "total_votes": 555191,
+        "share": 37.54
+      },
+      {
+        "candidate_name": "javaid ahmed",
+        "paty_name": "all india forward bloc",
+        "evm_votes": 3833,
+        "migrant_votes": 0,
+        "post_votes": 33,
+        "total_votes": 3866,
+        "share": 0.26
+      },
+      {
+        "candidate_name": "sushil kumar",
+        "paty_name": "hindusthan nirman dal",
+        "evm_votes": 1261,
+        "migrant_votes": 0,
+        "post_votes": 20,
+        "total_votes": 1281,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "syed aqib hussain",
+        "paty_name": "independent people\u2019s party",
+        "evm_votes": 1708,
+        "migrant_votes": 0,
+        "post_votes": 15,
+        "total_votes": 1723,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "gursagar singh",
+        "paty_name": "navarang congress party",
+        "evm_votes": 1086,
+        "migrant_votes": 0,
+        "post_votes": 17,
+        "total_votes": 1103,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "lal singh",
+        "paty_name": "dogra swabhiman sangathan party,",
+        "evm_votes": 6849,
+        "migrant_votes": 0,
+        "post_votes": 690,
+        "total_votes": 7539,
+        "share": 0.51
+      },
+      {
+        "candidate_name": "mohd younis",
+        "paty_name": "jammu & kashmir pir panjal awami party",
+        "evm_votes": 1584,
+        "migrant_votes": 0,
+        "post_votes": 28,
+        "total_votes": 1612,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "manish sahni",
+        "paty_name": "shivsena",
+        "evm_votes": 1157,
+        "migrant_votes": 0,
+        "post_votes": 35,
+        "total_votes": 1192,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "ajay kumar",
+        "paty_name": "independent",
+        "evm_votes": 915,
+        "migrant_votes": 0,
+        "post_votes": 26,
+        "total_votes": 941,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "anil singh",
+        "paty_name": "independent",
+        "evm_votes": 2118,
+        "migrant_votes": 0,
+        "post_votes": 13,
+        "total_votes": 2131,
+        "share": 0.14
+      },
+      {
+        "candidate_name": "balwan singh",
+        "paty_name": "independent",
+        "evm_votes": 2182,
+        "migrant_votes": 0,
+        "post_votes": 12,
+        "total_votes": 2194,
+        "share": 0.15
+      },
+      {
+        "candidate_name": "bahadur",
+        "paty_name": "independent",
+        "evm_votes": 1180,
+        "migrant_votes": 0,
+        "post_votes": 21,
+        "total_votes": 1201,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "perseen singh",
+        "paty_name": "independent",
+        "evm_votes": 2608,
+        "migrant_votes": 0,
+        "post_votes": 4,
+        "total_votes": 2612,
+        "share": 0.18
+      },
+      {
+        "candidate_name": "tarseem lal khullar",
+        "paty_name": "independent",
+        "evm_votes": 2369,
+        "migrant_votes": 0,
+        "post_votes": 15,
+        "total_votes": 2384,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "rajiv chuni",
+        "paty_name": "independent",
+        "evm_votes": 1257,
+        "migrant_votes": 0,
+        "post_votes": 12,
+        "total_votes": 1269,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "subash chander",
+        "paty_name": "independent",
+        "evm_votes": 3723,
+        "migrant_votes": 0,
+        "post_votes": 16,
+        "total_votes": 3739,
+        "share": 0.25
+      },
+      {
+        "candidate_name": "satish poonchi",
+        "paty_name": "independent",
+        "evm_votes": 3036,
+        "migrant_votes": 0,
+        "post_votes": 41,
+        "total_votes": 3077,
+        "share": 0.21
+      },
+      {
+        "candidate_name": "sakander ahmad nourani",
+        "paty_name": "independent",
+        "evm_votes": 1410,
+        "migrant_votes": 0,
+        "post_votes": 18,
+        "total_votes": 1428,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "syed zeshan haider",
+        "paty_name": "independent",
+        "evm_votes": 1565,
+        "migrant_votes": 0,
+        "post_votes": 17,
+        "total_votes": 1582,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "shazad shabnam",
+        "paty_name": "independent",
+        "evm_votes": 1006,
+        "migrant_votes": 0,
+        "post_votes": 3,
+        "total_votes": 1009,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "er. ghulam mustafa chowdhary",
+        "paty_name": "independent",
+        "evm_votes": 2738,
+        "migrant_votes": 0,
+        "post_votes": 7,
+        "total_votes": 2745,
+        "share": 0.19
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 2546,
+        "migrant_votes": 0,
+        "post_votes": 72,
+        "total_votes": 2618,
+        "share": 0.18
+      }
+    ],
+    "state": "jammu & kashmir",
+    "constituency": "jammu",
+    "evm_total": 1455290,
+    "migrant_total": 0,
+    "post_total": 23505,
+    "total": 1478795
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "jayaprasad m.g",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 9846,
+        "post_votes": 15,
+        "total_votes": 9861,
+        "share": 0.78
+      },
+      {
+        "candidate_name": "k.h. muniyappa",
+        "paty_name": "indian national congress",
+        "evm_votes": 498259,
+        "post_votes": 885,
+        "total_votes": 499144,
+        "share": 39.66
+      },
+      {
+        "candidate_name": "s. muniswamy",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 707930,
+        "post_votes": 1235,
+        "total_votes": 709165,
+        "share": 56.35
+      },
+      {
+        "candidate_name": "ashok chakravarthi m.b",
+        "paty_name": "ambedkar samaj party",
+        "evm_votes": 7075,
+        "post_votes": 10,
+        "total_votes": 7085,
+        "share": 0.56
+      },
+      {
+        "candidate_name": "g. chikkanarayana",
+        "paty_name": "republican sena",
+        "evm_votes": 1491,
+        "post_votes": 0,
+        "total_votes": 1491,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "ramanji. r",
+        "paty_name": "uttama prajaakeeya party",
+        "evm_votes": 3406,
+        "post_votes": 6,
+        "total_votes": 3412,
+        "share": 0.27
+      },
+      {
+        "candidate_name": "dhanamatnalli venkateshappa",
+        "paty_name": "republican party of india (a)",
+        "evm_votes": 1014,
+        "post_votes": 1,
+        "total_votes": 1015,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "sarvesh n.m.",
+        "paty_name": "pyramid party of india",
+        "evm_votes": 1407,
+        "post_votes": 0,
+        "total_votes": 1407,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "medihala chalavadi m chandrashekar",
+        "paty_name": "independent",
+        "evm_votes": 1453,
+        "post_votes": 1,
+        "total_votes": 1454,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "munirajappa. p",
+        "paty_name": "independent",
+        "evm_votes": 1183,
+        "post_votes": 1,
+        "total_votes": 1184,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "dr. ramesh babu. v.m.",
+        "paty_name": "independent",
+        "evm_votes": 1490,
+        "post_votes": 4,
+        "total_votes": 1494,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "raj kumaresan. l",
+        "paty_name": "independent",
+        "evm_votes": 2877,
+        "post_votes": 4,
+        "total_votes": 2881,
+        "share": 0.23
+      },
+      {
+        "candidate_name": "c. shankarappa",
+        "paty_name": "independent",
+        "evm_votes": 2493,
+        "post_votes": 2,
+        "total_votes": 2495,
+        "share": 0.2
+      },
+      {
+        "candidate_name": "n.c. subbarayappa",
+        "paty_name": "independent",
+        "evm_votes": 2574,
+        "post_votes": 0,
+        "total_votes": 2574,
+        "share": 0.2
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 13873,
+        "post_votes": 16,
+        "total_votes": 13889,
+        "share": 1.1
+      }
+    ],
+    "state": "karnataka",
+    "constituency": "kolar",
+    "evm_total": 1256371,
+    "post_total": 2180,
+    "total": 1258551
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "kiran kumar. s.k",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 2521,
+        "post_votes": 14,
+        "total_votes": 2535,
+        "share": 0.25
+      },
+      {
+        "candidate_name": "kummanam rajasekharan",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 313925,
+        "post_votes": 2217,
+        "total_votes": 316142,
+        "share": 31.3
+      },
+      {
+        "candidate_name": "c. divakaran",
+        "paty_name": "communist party of india",
+        "evm_votes": 256470,
+        "post_votes": 2086,
+        "total_votes": 258556,
+        "share": 25.6
+      },
+      {
+        "candidate_name": "dr. shashi tharoor",
+        "paty_name": "indian national congress",
+        "evm_votes": 414057,
+        "post_votes": 2074,
+        "total_votes": 416131,
+        "share": 41.19
+      },
+      {
+        "candidate_name": "pandalam keralavarmaraja",
+        "paty_name": "pravasi nivasi party",
+        "evm_votes": 1692,
+        "post_votes": 3,
+        "total_votes": 1695,
+        "share": 0.17
+      },
+      {
+        "candidate_name": "s mini",
+        "paty_name": "socialist unity centre of india (communist)",
+        "evm_votes": 651,
+        "post_votes": 13,
+        "total_votes": 664,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "christopher shaju paliyode",
+        "paty_name": "independent",
+        "evm_votes": 344,
+        "post_votes": 1,
+        "total_votes": 345,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "gopakumar oorupoika",
+        "paty_name": "independent",
+        "evm_votes": 338,
+        "post_votes": 1,
+        "total_votes": 339,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "jain wilson",
+        "paty_name": "independent",
+        "evm_votes": 197,
+        "post_votes": 2,
+        "total_votes": 199,
+        "share": 0.02
+      },
+      {
+        "candidate_name": "johny thampy",
+        "paty_name": "independent",
+        "evm_votes": 265,
+        "post_votes": 2,
+        "total_votes": 267,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "b. devadathan",
+        "paty_name": "independent",
+        "evm_votes": 257,
+        "post_votes": 1,
+        "total_votes": 258,
+        "share": 0.03
+      },
+      {
+        "candidate_name": "binu. d",
+        "paty_name": "independent",
+        "evm_votes": 602,
+        "post_votes": 2,
+        "total_votes": 604,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "mithra kumar g",
+        "paty_name": "independent",
+        "evm_votes": 3521,
+        "post_votes": 0,
+        "total_votes": 3521,
+        "share": 0.35
+      },
+      {
+        "candidate_name": "vishnu s ambadi",
+        "paty_name": "independent",
+        "evm_votes": 1822,
+        "post_votes": 0,
+        "total_votes": 1822,
+        "share": 0.18
+      },
+      {
+        "candidate_name": "t sasi",
+        "paty_name": "independent",
+        "evm_votes": 1005,
+        "post_votes": 2,
+        "total_votes": 1007,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "m.s subi",
+        "paty_name": "independent",
+        "evm_votes": 1050,
+        "post_votes": 0,
+        "total_votes": 1050,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "nandhavanam suseelan",
+        "paty_name": "independent",
+        "evm_votes": 465,
+        "post_votes": 0,
+        "total_votes": 465,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 4553,
+        "post_votes": 27,
+        "total_votes": 4580,
+        "share": 0.45
+      }
+    ],
+    "state": "kerala",
+    "constituency": "thiruvananthapuram",
+    "evm_total": 1003735,
+    "post_total": 6445,
+    "total": 1010180
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "ashok bhalavi",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 23545,
+        "post_votes": 28,
+        "total_votes": 23573,
+        "share": 1.74
+      },
+      {
+        "candidate_name": "durga das (d.d.) uikey",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 810237,
+        "post_votes": 1011,
+        "total_votes": 811248,
+        "share": 59.74
+      },
+      {
+        "candidate_name": "ramu tekam (advocate)",
+        "paty_name": "indian national congress",
+        "evm_votes": 450802,
+        "post_votes": 205,
+        "total_votes": 451007,
+        "share": 33.21
+      },
+      {
+        "candidate_name": "pushpa marskole",
+        "paty_name": "bahujan mukti party",
+        "evm_votes": 10337,
+        "post_votes": 5,
+        "total_votes": 10342,
+        "share": 0.76
+      },
+      {
+        "candidate_name": "pushpa dr. shailendra pendam",
+        "paty_name": "akhil bhartiya gondwana party",
+        "evm_votes": 3761,
+        "post_votes": 7,
+        "total_votes": 3768,
+        "share": 0.28
+      },
+      {
+        "candidate_name": "bisram uikey",
+        "paty_name": "gondvana gantantra party",
+        "evm_votes": 4949,
+        "post_votes": 8,
+        "total_votes": 4957,
+        "share": 0.37
+      },
+      {
+        "candidate_name": "nimish sariyam",
+        "paty_name": "independent",
+        "evm_votes": 9803,
+        "post_votes": 1,
+        "total_votes": 9804,
+        "share": 0.72
+      },
+      {
+        "candidate_name": "bhagcharan warkade",
+        "paty_name": "independent",
+        "evm_votes": 9428,
+        "post_votes": 3,
+        "total_votes": 9431,
+        "share": 0.69
+      },
+      {
+        "candidate_name": "sunil kawde",
+        "paty_name": "independent",
+        "evm_votes": 10937,
+        "post_votes": 3,
+        "total_votes": 10940,
+        "share": 0.81
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 22781,
+        "post_votes": 6,
+        "total_votes": 22787,
+        "share": 1.68
+      }
+    ],
+    "state": "madhya pradesh",
+    "constituency": "betul",
+    "evm_total": 1356580,
+    "post_total": 1277,
+    "total": 1357857
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "ajay prakash kurane",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 4072,
+        "post_votes": 84,
+        "total_votes": 4156,
+        "share": 0.33
+      },
+      {
+        "candidate_name": "dhairyasheel sambhajirao mane",
+        "paty_name": "shivsena",
+        "evm_votes": 582776,
+        "post_votes": 3000,
+        "total_votes": 585776,
+        "share": 46.78
+      },
+      {
+        "candidate_name": "aslam badshahaji sayyad",
+        "paty_name": "vanchit bahujan aaghadi",
+        "evm_votes": 123151,
+        "post_votes": 268,
+        "total_votes": 123419,
+        "share": 9.86
+      },
+      {
+        "candidate_name": "prof. dr. prashant gangawane",
+        "paty_name": "bahujan republican  socialist party",
+        "evm_votes": 1735,
+        "post_votes": 9,
+        "total_votes": 1744,
+        "share": 0.14
+      },
+      {
+        "candidate_name": "madan vajir sardar",
+        "paty_name": "bahujan mukti party",
+        "evm_votes": 1170,
+        "post_votes": 11,
+        "total_votes": 1181,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "raju mujikrao shetty",
+        "paty_name": "bahujan maha party",
+        "evm_votes": 8086,
+        "post_votes": 17,
+        "total_votes": 8103,
+        "share": 0.65
+      },
+      {
+        "candidate_name": "raju anna shetti",
+        "paty_name": "swabhimani paksha",
+        "evm_votes": 487276,
+        "post_votes": 2461,
+        "total_votes": 489737,
+        "share": 39.11
+      },
+      {
+        "candidate_name": "anandrao vasantrao sarnaik (fouji bapu)",
+        "paty_name": "independent",
+        "evm_votes": 3300,
+        "post_votes": 16,
+        "total_votes": 3316,
+        "share": 0.26
+      },
+      {
+        "candidate_name": "aitawade vidyasagar devappa",
+        "paty_name": "independent",
+        "evm_votes": 1986,
+        "post_votes": 5,
+        "total_votes": 1991,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "kamble vishwas ananda",
+        "paty_name": "independent",
+        "evm_votes": 1402,
+        "post_votes": 6,
+        "total_votes": 1408,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "kishor rajaram panhalkar",
+        "paty_name": "independent",
+        "evm_votes": 1181,
+        "post_votes": 3,
+        "total_votes": 1184,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "dr. nitin udal bhat",
+        "paty_name": "independent",
+        "evm_votes": 1011,
+        "post_votes": 0,
+        "total_votes": 1011,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "patil raghunath ramchandra",
+        "paty_name": "independent",
+        "evm_votes": 2819,
+        "post_votes": 1,
+        "total_votes": 2820,
+        "share": 0.23
+      },
+      {
+        "candidate_name": "mahadev jagannath jagadale",
+        "paty_name": "independent",
+        "evm_votes": 3585,
+        "post_votes": 2,
+        "total_votes": 3587,
+        "share": 0.29
+      },
+      {
+        "candidate_name": "vijay bhagwan chougule",
+        "paty_name": "independent",
+        "evm_votes": 5974,
+        "post_votes": 0,
+        "total_votes": 5974,
+        "share": 0.48
+      },
+      {
+        "candidate_name": "sangramsinh jaysingrao gaikwad",
+        "paty_name": "independent",
+        "evm_votes": 8689,
+        "post_votes": 6,
+        "total_votes": 8695,
+        "share": 0.69
+      },
+      {
+        "candidate_name": "sanjay ghanshyam agrawal",
+        "paty_name": "independent",
+        "evm_votes": 1000,
+        "post_votes": 1,
+        "total_votes": 1001,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 7043,
+        "post_votes": 65,
+        "total_votes": 7108,
+        "share": 0.57
+      }
+    ],
+    "state": "maharashtra",
+    "constituency": "hatkanangle",
+    "evm_total": 1246256,
+    "post_total": 5955,
+    "total": 1252211
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "angam karung kom",
+        "paty_name": "nationalist congress party",
+        "evm_votes": 2145,
+        "post_votes": 407,
+        "total_votes": 2552,
+        "share": 0.3
+      },
+      {
+        "candidate_name": "k. james",
+        "paty_name": "indian national congress",
+        "evm_votes": 151103,
+        "post_votes": 1407,
+        "total_votes": 152510,
+        "share": 17.77
+      },
+      {
+        "candidate_name": "thangminlien kipgen",
+        "paty_name": "national people's party",
+        "evm_votes": 30261,
+        "post_votes": 465,
+        "total_votes": 30726,
+        "share": 3.58
+      },
+      {
+        "candidate_name": "lorho s. pfoze",
+        "paty_name": "naga peoples front",
+        "evm_votes": 362707,
+        "post_votes": 820,
+        "total_votes": 363527,
+        "share": 42.37
+      },
+      {
+        "candidate_name": "houlim shokhopao mate",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 287058,
+        "post_votes": 2687,
+        "total_votes": 289745,
+        "share": 33.77
+      },
+      {
+        "candidate_name": "ashang kasar",
+        "paty_name": "north east india development party",
+        "evm_votes": 12081,
+        "post_votes": 130,
+        "total_votes": 12211,
+        "share": 1.42
+      },
+      {
+        "candidate_name": "hangkhanpau taithul",
+        "paty_name": "janata dal  (united)",
+        "evm_votes": 2879,
+        "post_votes": 108,
+        "total_votes": 2987,
+        "share": 0.35
+      },
+      {
+        "candidate_name": "leikhan kaipu",
+        "paty_name": "independent",
+        "evm_votes": 933,
+        "post_votes": 63,
+        "total_votes": 996,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 2668,
+        "post_votes": 107,
+        "total_votes": 2775,
+        "share": 0.32
+      }
+    ],
+    "state": "manipur",
+    "constituency": "outer manipur",
+    "evm_total": 851835,
+    "post_total": 6194,
+    "total": 858029
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "agatha k. sangma",
+        "paty_name": "national people's party",
+        "evm_votes": 304185,
+        "post_votes": 270,
+        "total_votes": 304455,
+        "share": 52.22
+      },
+      {
+        "candidate_name": "dr. mukul sangma",
+        "paty_name": "indian national congress",
+        "evm_votes": 240240,
+        "post_votes": 185,
+        "total_votes": 240425,
+        "share": 41.24
+      },
+      {
+        "candidate_name": "rikman garrey momin",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 31394,
+        "post_votes": 313,
+        "total_votes": 31707,
+        "share": 5.44
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 6451,
+        "post_votes": 3,
+        "total_votes": 6454,
+        "share": 1.11
+      }
+    ],
+    "state": "meghalaya",
+    "constituency": "tura",
+    "evm_total": 582270,
+    "post_total": 771,
+    "total": 583041
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "c lalrosanga",
+        "paty_name": "mizo national front",
+        "evm_votes": 223509,
+        "post_votes": 777,
+        "total_votes": 224286,
+        "share": 44.89
+      },
+      {
+        "candidate_name": "nirupam chakma",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 27989,
+        "post_votes": 718,
+        "total_votes": 28707,
+        "share": 5.75
+      },
+      {
+        "candidate_name": "tbc lalvenchhunga",
+        "paty_name": "peoples representation for identity and status of mizoram (prism) party",
+        "evm_votes": 13211,
+        "post_votes": 112,
+        "total_votes": 13323,
+        "share": 2.67
+      },
+      {
+        "candidate_name": "lal hriatrenga chhangte",
+        "paty_name": "independent",
+        "evm_votes": 12467,
+        "post_votes": 208,
+        "total_votes": 12675,
+        "share": 2.54
+      },
+      {
+        "candidate_name": "lalnghinglova hmar",
+        "paty_name": "independent",
+        "evm_votes": 215202,
+        "post_votes": 944,
+        "total_votes": 216146,
+        "share": 43.26
+      },
+      {
+        "candidate_name": "lalthlamuani",
+        "paty_name": "independent",
+        "evm_votes": 1909,
+        "post_votes": 66,
+        "total_votes": 1975,
+        "share": 0.4
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 2493,
+        "post_votes": 16,
+        "total_votes": 2509,
+        "share": 0.5
+      }
+    ],
+    "state": "mizoram",
+    "constituency": "mizoram",
+    "evm_total": 496780,
+    "post_total": 2841,
+    "total": 499621
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "k l chishi",
+        "paty_name": "indian national congress",
+        "evm_votes": 481915,
+        "post_votes": 2251,
+        "total_votes": 484166,
+        "share": 48.11
+      },
+      {
+        "candidate_name": "hayithung tungoe",
+        "paty_name": "national people's party",
+        "evm_votes": 14219,
+        "post_votes": 778,
+        "total_votes": 14997,
+        "share": 1.49
+      },
+      {
+        "candidate_name": "tokheho yepthomi",
+        "paty_name": "nationalist democratic progressive party",
+        "evm_votes": 499683,
+        "post_votes": 827,
+        "total_votes": 500510,
+        "share": 49.73
+      },
+      {
+        "candidate_name": "dr. m m thromwa konyak",
+        "paty_name": "independent",
+        "evm_votes": 4316,
+        "post_votes": 304,
+        "total_votes": 4620,
+        "share": 0.46
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 2009,
+        "post_votes": 55,
+        "total_votes": 2064,
+        "share": 0.21
+      }
+    ],
+    "state": "nagaland",
+    "constituency": "nagaland",
+    "evm_total": 1002142,
+    "post_total": 4215,
+    "total": 1006357
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "kausalya hikaka",
+        "paty_name": "biju janata dal",
+        "evm_votes": 366812,
+        "post_votes": 704,
+        "total_votes": 367516,
+        "share": 34.02
+      },
+      {
+        "candidate_name": "jayaram pangi",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 206153,
+        "post_votes": 2245,
+        "total_votes": 208398,
+        "share": 19.29
+      },
+      {
+        "candidate_name": "bhaskar mutuka",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 35668,
+        "post_votes": 96,
+        "total_votes": 35764,
+        "share": 3.31
+      },
+      {
+        "candidate_name": "saptagiri sankar ulaka",
+        "paty_name": "indian national congress",
+        "evm_votes": 370434,
+        "post_votes": 695,
+        "total_votes": 371129,
+        "share": 34.36
+      },
+      {
+        "candidate_name": "damodara sabar",
+        "paty_name": "communist party of india  (marxist-leninist)  (liberation)",
+        "evm_votes": 26112,
+        "post_votes": 5,
+        "total_votes": 26117,
+        "share": 2.42
+      },
+      {
+        "candidate_name": "banamali majhi",
+        "paty_name": "ambedkarite party of india",
+        "evm_votes": 18842,
+        "post_votes": 7,
+        "total_votes": 18849,
+        "share": 1.75
+      },
+      {
+        "candidate_name": "rajendra kendruka",
+        "paty_name": "communist party of india (marxist-leninist) red star",
+        "evm_votes": 15826,
+        "post_votes": 1,
+        "total_votes": 15827,
+        "share": 1.47
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 36525,
+        "post_votes": 36,
+        "total_votes": 36561,
+        "share": 3.38
+      }
+    ],
+    "state": "odisha",
+    "constituency": "koraput",
+    "evm_total": 1076372,
+    "post_total": 3789,
+    "total": 1080161
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "surjit singh rakhra",
+        "paty_name": "shiromani akali dal",
+        "evm_votes": 368498,
+        "post_votes": 811,
+        "total_votes": 369309,
+        "share": 31.35
+      },
+      {
+        "candidate_name": "neena mittal",
+        "paty_name": "aam aadmi party",
+        "evm_votes": 56610,
+        "post_votes": 267,
+        "total_votes": 56877,
+        "share": 4.83
+      },
+      {
+        "candidate_name": "preneet kaur",
+        "paty_name": "indian national congress",
+        "evm_votes": 531178,
+        "post_votes": 849,
+        "total_votes": 532027,
+        "share": 45.17
+      },
+      {
+        "candidate_name": "ashwani kumar",
+        "paty_name": "shivsena",
+        "evm_votes": 4840,
+        "post_votes": 77,
+        "total_votes": 4917,
+        "share": 0.42
+      },
+      {
+        "candidate_name": "ajaib singh",
+        "paty_name": "rashtriya janshakti party (secular)",
+        "evm_votes": 1505,
+        "post_votes": 13,
+        "total_votes": 1518,
+        "share": 0.13
+      },
+      {
+        "candidate_name": "harpal singh",
+        "paty_name": "ambedkarite party of india",
+        "evm_votes": 2409,
+        "post_votes": 30,
+        "total_votes": 2439,
+        "share": 0.21
+      },
+      {
+        "candidate_name": "kshmakant pandey",
+        "paty_name": "hindustan shakti sena",
+        "evm_votes": 4299,
+        "post_votes": 9,
+        "total_votes": 4308,
+        "share": 0.37
+      },
+      {
+        "candidate_name": "dharam vira gandhi",
+        "paty_name": "nawan punjab party",
+        "evm_votes": 161388,
+        "post_votes": 257,
+        "total_votes": 161645,
+        "share": 13.72
+      },
+      {
+        "candidate_name": "amarpreet singh",
+        "paty_name": "independent",
+        "evm_votes": 1834,
+        "post_votes": 5,
+        "total_votes": 1839,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "shankar lal",
+        "paty_name": "independent",
+        "evm_votes": 799,
+        "post_votes": 4,
+        "total_votes": 803,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "harbhajan singh virk",
+        "paty_name": "independent",
+        "evm_votes": 1608,
+        "post_votes": 5,
+        "total_votes": 1613,
+        "share": 0.14
+      },
+      {
+        "candidate_name": "gurnam singh",
+        "paty_name": "independent",
+        "evm_votes": 759,
+        "post_votes": 3,
+        "total_votes": 762,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "jasbir singh",
+        "paty_name": "independent",
+        "evm_votes": 1123,
+        "post_votes": 3,
+        "total_votes": 1126,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "jagmail singh",
+        "paty_name": "independent",
+        "evm_votes": 2273,
+        "post_votes": 1,
+        "total_votes": 2274,
+        "share": 0.19
+      },
+      {
+        "candidate_name": "parminder kumar",
+        "paty_name": "independent",
+        "evm_votes": 1345,
+        "post_votes": 0,
+        "total_votes": 1345,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "parveen kumar",
+        "paty_name": "independent",
+        "evm_votes": 4746,
+        "post_votes": 1,
+        "total_votes": 4747,
+        "share": 0.4
+      },
+      {
+        "candidate_name": "banwari lal",
+        "paty_name": "independent",
+        "evm_votes": 8111,
+        "post_votes": 2,
+        "total_votes": 8113,
+        "share": 0.69
+      },
+      {
+        "candidate_name": "baldeep singh",
+        "paty_name": "independent",
+        "evm_votes": 1497,
+        "post_votes": 2,
+        "total_votes": 1499,
+        "share": 0.13
+      },
+      {
+        "candidate_name": "makhan singh",
+        "paty_name": "independent",
+        "evm_votes": 2808,
+        "post_votes": 0,
+        "total_votes": 2808,
+        "share": 0.24
+      },
+      {
+        "candidate_name": "manjeet singh",
+        "paty_name": "independent",
+        "evm_votes": 1061,
+        "post_votes": 1,
+        "total_votes": 1062,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "mohan lal",
+        "paty_name": "independent",
+        "evm_votes": 985,
+        "post_votes": 1,
+        "total_votes": 986,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "randhir singh khangura",
+        "paty_name": "independent",
+        "evm_votes": 1021,
+        "post_votes": 2,
+        "total_votes": 1023,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "rajesh kumar",
+        "paty_name": "independent",
+        "evm_votes": 1283,
+        "post_votes": 1,
+        "total_votes": 1284,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "rishabh sharma",
+        "paty_name": "independent",
+        "evm_votes": 1390,
+        "post_votes": 0,
+        "total_votes": 1390,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "lal chand",
+        "paty_name": "independent",
+        "evm_votes": 1077,
+        "post_votes": 2,
+        "total_votes": 1079,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 11081,
+        "post_votes": 29,
+        "total_votes": 11110,
+        "share": 0.94
+      }
+    ],
+    "state": "punjab",
+    "constituency": "patiala",
+    "evm_total": 1175528,
+    "post_total": 2375,
+    "total": 1177903
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "dushyant singh",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 887017,
+        "post_votes": 383,
+        "total_votes": 887400,
+        "share": 64.78
+      },
+      {
+        "candidate_name": "pramod sharma",
+        "paty_name": "indian national congress",
+        "evm_votes": 433272,
+        "post_votes": 200,
+        "total_votes": 433472,
+        "share": 31.64
+      },
+      {
+        "candidate_name": "badree lal",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 13336,
+        "post_votes": 2,
+        "total_votes": 13338,
+        "share": 0.97
+      },
+      {
+        "candidate_name": "abdul qayyum siddiqui",
+        "paty_name": "independent",
+        "evm_votes": 3344,
+        "post_votes": 0,
+        "total_votes": 3344,
+        "share": 0.24
+      },
+      {
+        "candidate_name": "prince meena",
+        "paty_name": "independent",
+        "evm_votes": 2701,
+        "post_votes": 4,
+        "total_votes": 2705,
+        "share": 0.2
+      },
+      {
+        "candidate_name": "mohammad nasir",
+        "paty_name": "independent",
+        "evm_votes": 5107,
+        "post_votes": 0,
+        "total_votes": 5107,
+        "share": 0.37
+      },
+      {
+        "candidate_name": "harish kumar dhakar",
+        "paty_name": "independent",
+        "evm_votes": 7421,
+        "post_votes": 1,
+        "total_votes": 7422,
+        "share": 0.54
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 17078,
+        "post_votes": 2,
+        "total_votes": 17080,
+        "share": 1.25
+      }
+    ],
+    "state": "rajasthan",
+    "constituency": "jhalawar",
+    "evm_total": 1369276,
+    "post_total": 592,
+    "total": 1369868
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "bharat basnett",
+        "paty_name": "indian national congress",
+        "evm_votes": 3922,
+        "post_votes": 68,
+        "total_votes": 3990,
+        "share": 1.13
+      },
+      {
+        "candidate_name": "dek bahadur katwal",
+        "paty_name": "sikkim democratic front",
+        "evm_votes": 149158,
+        "post_votes": 5331,
+        "total_votes": 154489,
+        "share": 43.92
+      },
+      {
+        "candidate_name": "indra hang subba",
+        "paty_name": "sikkim krantikari morcha",
+        "evm_votes": 161143,
+        "post_votes": 5779,
+        "total_votes": 166922,
+        "share": 47.46
+      },
+      {
+        "candidate_name": "laten tshering sherpa",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 16062,
+        "post_votes": 510,
+        "total_votes": 16572,
+        "share": 4.71
+      },
+      {
+        "candidate_name": "biraj adhikari",
+        "paty_name": "hamro sikkim party",
+        "evm_votes": 1943,
+        "post_votes": 55,
+        "total_votes": 1998,
+        "share": 0.57
+      },
+      {
+        "candidate_name": "dhiraj kumar rai",
+        "paty_name": "sikkim republican party",
+        "evm_votes": 1479,
+        "post_votes": 24,
+        "total_votes": 1503,
+        "share": 0.43
+      },
+      {
+        "candidate_name": "narendra adhikari",
+        "paty_name": "sikkim united front",
+        "evm_votes": 607,
+        "post_votes": 7,
+        "total_votes": 614,
+        "share": 0.17
+      },
+      {
+        "candidate_name": "rabin rai",
+        "paty_name": "all indians party",
+        "evm_votes": 392,
+        "post_votes": 4,
+        "total_votes": 396,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "sunmaya gurung",
+        "paty_name": "jai maha bharath party",
+        "evm_votes": 377,
+        "post_votes": 6,
+        "total_votes": 383,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "mahendra thapa",
+        "paty_name": "independent",
+        "evm_votes": 593,
+        "post_votes": 4,
+        "total_votes": 597,
+        "share": 0.17
+      },
+      {
+        "candidate_name": "passang gyali sherpa",
+        "paty_name": "independent",
+        "evm_votes": 1947,
+        "post_votes": 56,
+        "total_votes": 2003,
+        "share": 0.57
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 2257,
+        "post_votes": 22,
+        "total_votes": 2279,
+        "share": 0.65
+      }
+    ],
+    "state": "sikkim",
+    "constituency": "sikkim",
+    "evm_total": 339880,
+    "post_total": 11866,
+    "total": 351746
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "radhakrishnan. p",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 364598,
+        "post_votes": 2704,
+        "total_votes": 367302,
+        "share": 35.04
+      },
+      {
+        "candidate_name": "balasubramanian. e",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 1970,
+        "post_votes": 19,
+        "total_votes": 1989,
+        "share": 0.19
+      },
+      {
+        "candidate_name": "vasanthakumar. h",
+        "paty_name": "indian national congress",
+        "evm_votes": 624627,
+        "post_votes": 2608,
+        "total_votes": 627235,
+        "share": 59.83
+      },
+      {
+        "candidate_name": "ebenezer. j",
+        "paty_name": "makkal needhi maiam",
+        "evm_votes": 8530,
+        "post_votes": 60,
+        "total_votes": 8590,
+        "share": 0.82
+      },
+      {
+        "candidate_name": "subi. t",
+        "paty_name": "the future india party",
+        "evm_votes": 815,
+        "post_votes": 5,
+        "total_votes": 820,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "paulraj. c.m.",
+        "paty_name": "communist party of india (marxist-leninist) red star",
+        "evm_votes": 761,
+        "post_votes": 17,
+        "total_votes": 778,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "jackson. m. s.",
+        "paty_name": "democratic corruption liberation front",
+        "evm_votes": 593,
+        "post_votes": 3,
+        "total_votes": 596,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "jainteen. v",
+        "paty_name": "naam tamilar katchi",
+        "evm_votes": 16810,
+        "post_votes": 259,
+        "total_votes": 17069,
+        "share": 1.63
+      },
+      {
+        "candidate_name": "esakkimuthu. n",
+        "paty_name": "independent",
+        "evm_votes": 517,
+        "post_votes": 3,
+        "total_votes": 520,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "enose. m",
+        "paty_name": "independent",
+        "evm_votes": 407,
+        "post_votes": 3,
+        "total_votes": 410,
+        "share": 0.04
+      },
+      {
+        "candidate_name": "santhakumar. n",
+        "paty_name": "independent",
+        "evm_votes": 859,
+        "post_votes": 5,
+        "total_votes": 864,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "nagoor meeran peer mohamed. u",
+        "paty_name": "independent",
+        "evm_votes": 491,
+        "post_votes": 2,
+        "total_votes": 493,
+        "share": 0.05
+      },
+      {
+        "candidate_name": "peachi muthu. e",
+        "paty_name": "independent",
+        "evm_votes": 814,
+        "post_votes": 0,
+        "total_votes": 814,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "ravi kumar. t",
+        "paty_name": "independent",
+        "evm_votes": 2419,
+        "post_votes": 2,
+        "total_votes": 2421,
+        "share": 0.23
+      },
+      {
+        "candidate_name": "lekshmanan. e",
+        "paty_name": "independent",
+        "evm_votes": 12326,
+        "post_votes": 19,
+        "total_votes": 12345,
+        "share": 1.18
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 6088,
+        "post_votes": 43,
+        "total_votes": 6131,
+        "share": 0.58
+      }
+    ],
+    "state": "tamil nadu",
+    "constituency": "kanniyakumari",
+    "evm_total": 1042625,
+    "post_total": 5752,
+    "total": 1048377
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "jitendra chaudhury",
+        "paty_name": "communist party of india  (marxist)",
+        "evm_votes": 200497,
+        "post_votes": 466,
+        "total_votes": 200963,
+        "share": 19.22
+      },
+      {
+        "candidate_name": "narendra chandra debbarma",
+        "paty_name": "indigenous people's front of tripura",
+        "evm_votes": 45153,
+        "post_votes": 151,
+        "total_votes": 45304,
+        "share": 4.33
+      },
+      {
+        "candidate_name": "maharaj kumari pragya debburman",
+        "paty_name": "indian national congress",
+        "evm_votes": 276517,
+        "post_votes": 1319,
+        "total_votes": 277836,
+        "share": 26.58
+      },
+      {
+        "candidate_name": "rebati tripura",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 479634,
+        "post_votes": 2492,
+        "total_votes": 482126,
+        "share": 46.12
+      },
+      {
+        "candidate_name": "karnadhan chakma",
+        "paty_name": "amra bangalee",
+        "evm_votes": 6920,
+        "post_votes": 24,
+        "total_votes": 6944,
+        "share": 0.66
+      },
+      {
+        "candidate_name": "amar debbarma",
+        "paty_name": "independent",
+        "evm_votes": 3698,
+        "post_votes": 8,
+        "total_votes": 3706,
+        "share": 0.35
+      },
+      {
+        "candidate_name": "chitta ranjan debbarma",
+        "paty_name": "independent",
+        "evm_votes": 3620,
+        "post_votes": 8,
+        "total_votes": 3628,
+        "share": 0.35
+      },
+      {
+        "candidate_name": "dipti halam",
+        "paty_name": "independent",
+        "evm_votes": 3833,
+        "post_votes": 6,
+        "total_votes": 3839,
+        "share": 0.37
+      },
+      {
+        "candidate_name": "bijoy debbarma",
+        "paty_name": "independent",
+        "evm_votes": 5273,
+        "post_votes": 3,
+        "total_votes": 5276,
+        "share": 0.5
+      },
+      {
+        "candidate_name": "subir kumar jamatia",
+        "paty_name": "independent",
+        "evm_votes": 4571,
+        "post_votes": 10,
+        "total_votes": 4581,
+        "share": 0.44
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 11197,
+        "post_votes": 17,
+        "total_votes": 11214,
+        "share": 1.07
+      }
+    ],
+    "state": "tripura",
+    "constituency": "tripura east",
+    "evm_total": 1040913,
+    "post_total": 4504,
+    "total": 1045417
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "ashok kumar kanaujiya",
+        "paty_name": "communist party of india",
+        "evm_votes": 17445,
+        "post_votes": 21,
+        "total_votes": 17466,
+        "share": 1.77
+      },
+      {
+        "candidate_name": "bhagwati prasad chaudhari",
+        "paty_name": "indian national congress",
+        "evm_votes": 35222,
+        "post_votes": 47,
+        "total_votes": 35269,
+        "share": 3.57
+      },
+      {
+        "candidate_name": "bhai lal",
+        "paty_name": "samajwadi party",
+        "evm_votes": 393304,
+        "post_votes": 274,
+        "total_votes": 393578,
+        "share": 39.82
+      },
+      {
+        "candidate_name": "anita kol",
+        "paty_name": "janata dal  (united)",
+        "evm_votes": 6597,
+        "post_votes": 86,
+        "total_votes": 6683,
+        "share": 0.68
+      },
+      {
+        "candidate_name": "anuj kumar kanaujia",
+        "paty_name": "bhartiya lokmat rashtrwadi party",
+        "evm_votes": 18333,
+        "post_votes": 5,
+        "total_votes": 18338,
+        "share": 1.86
+      },
+      {
+        "candidate_name": "kailash nath",
+        "paty_name": "suheldev bharatiya samaj party",
+        "evm_votes": 4813,
+        "post_votes": 4,
+        "total_votes": 4817,
+        "share": 0.49
+      },
+      {
+        "candidate_name": "s r darapuri",
+        "paty_name": "all india peoples' front (radical)",
+        "evm_votes": 11029,
+        "post_votes": 3,
+        "total_votes": 11032,
+        "share": 1.12
+      },
+      {
+        "candidate_name": "pakauri lal kol",
+        "paty_name": "apna dal (soneylal)",
+        "evm_votes": 447691,
+        "post_votes": 223,
+        "total_votes": 447914,
+        "share": 45.32
+      },
+      {
+        "candidate_name": "ruby prasad",
+        "paty_name": "pragatishil samajwadi party (lohia)",
+        "evm_votes": 9120,
+        "post_votes": 10,
+        "total_votes": 9130,
+        "share": 0.92
+      },
+      {
+        "candidate_name": "sunil kumar",
+        "paty_name": "bharat prabhat party",
+        "evm_votes": 5787,
+        "post_votes": 6,
+        "total_votes": 5793,
+        "share": 0.59
+      },
+      {
+        "candidate_name": "prabhudayal",
+        "paty_name": "independent",
+        "evm_votes": 8357,
+        "post_votes": 1,
+        "total_votes": 8358,
+        "share": 0.85
+      },
+      {
+        "candidate_name": "vidya prakash kureel",
+        "paty_name": "independent",
+        "evm_votes": 8788,
+        "post_votes": 3,
+        "total_votes": 8791,
+        "share": 0.89
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 21103,
+        "post_votes": 15,
+        "total_votes": 21118,
+        "share": 2.14
+      }
+    ],
+    "state": "uttar pradesh",
+    "constituency": "robertsganj",
+    "evm_total": 987589,
+    "post_total": 698,
+    "total": 988287
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "imam hossain",
+        "paty_name": "indian national congress",
+        "evm_votes": 75451,
+        "post_votes": 95,
+        "total_votes": 75546,
+        "share": 5.21
+      },
+      {
+        "candidate_name": "karim rezaul",
+        "paty_name": "communist party of india  (marxist)",
+        "evm_votes": 96673,
+        "post_votes": 90,
+        "total_votes": 96763,
+        "share": 6.68
+      },
+      {
+        "candidate_name": "dudh kumar mondal",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 563715,
+        "post_votes": 1438,
+        "total_votes": 565153,
+        "share": 38.99
+      },
+      {
+        "candidate_name": "prabir mukhopadhyay",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 9459,
+        "post_votes": 8,
+        "total_votes": 9467,
+        "share": 0.65
+      },
+      {
+        "candidate_name": "satabdi roy",
+        "paty_name": "all india trinamool congress",
+        "evm_votes": 653426,
+        "post_votes": 651,
+        "total_votes": 654077,
+        "share": 45.13
+      },
+      {
+        "candidate_name": "ahamed faruk",
+        "paty_name": "rashtravadi janata party",
+        "evm_votes": 15171,
+        "post_votes": 0,
+        "total_votes": 15171,
+        "share": 1.05
+      },
+      {
+        "candidate_name": "ayesha khatun",
+        "paty_name": "socialist unity centre of india (communist)",
+        "evm_votes": 5995,
+        "post_votes": 5,
+        "total_votes": 6000,
+        "share": 0.41
+      },
+      {
+        "candidate_name": "md. firoj ali",
+        "paty_name": "bharatiya national janta dal",
+        "evm_votes": 9400,
+        "post_votes": 0,
+        "total_votes": 9400,
+        "share": 0.65
+      },
+      {
+        "candidate_name": "chittaranjan hansda",
+        "paty_name": "independent",
+        "evm_votes": 5526,
+        "post_votes": 2,
+        "total_votes": 5528,
+        "share": 0.38
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 12307,
+        "post_votes": 11,
+        "total_votes": 12318,
+        "share": 0.85
+      }
+    ],
+    "state": "west bengal",
+    "constituency": "birbhum",
+    "evm_total": 1447123,
+    "post_total": 2300,
+    "total": 1449423
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "biresh thakur",
+        "paty_name": "indian national congress",
+        "evm_votes": 537999,
+        "post_votes": 1320,
+        "total_votes": 539319,
+        "share": 46.53
+      },
+      {
+        "candidate_name": "mohan mandavi",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 543376,
+        "post_votes": 2857,
+        "total_votes": 546233,
+        "share": 47.12
+      },
+      {
+        "candidate_name": "sube singh dhurva",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 10088,
+        "post_votes": 36,
+        "total_votes": 10124,
+        "share": 0.87
+      },
+      {
+        "candidate_name": "umashankar bhandari",
+        "paty_name": "shivsena",
+        "evm_votes": 3417,
+        "post_votes": 20,
+        "total_votes": 3437,
+        "share": 0.3
+      },
+      {
+        "candidate_name": "ghanshyam jurri",
+        "paty_name": "gondvana gantantra party",
+        "evm_votes": 4391,
+        "post_votes": 80,
+        "total_votes": 4471,
+        "share": 0.39
+      },
+      {
+        "candidate_name": "durgaprasad thakur",
+        "paty_name": "ambedkarite party of india",
+        "evm_votes": 6095,
+        "post_votes": 8,
+        "total_votes": 6103,
+        "share": 0.53
+      },
+      {
+        "candidate_name": "mathan singh markam",
+        "paty_name": "bhartiya shakti chetna party",
+        "evm_votes": 5574,
+        "post_votes": 12,
+        "total_votes": 5586,
+        "share": 0.48
+      },
+      {
+        "candidate_name": "narend nag",
+        "paty_name": "independent",
+        "evm_votes": 5750,
+        "post_votes": 8,
+        "total_votes": 5758,
+        "share": 0.5
+      },
+      {
+        "candidate_name": "harisingh sidar",
+        "paty_name": "independent",
+        "evm_votes": 11447,
+        "post_votes": 2,
+        "total_votes": 11449,
+        "share": 0.99
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 26692,
+        "post_votes": 21,
+        "total_votes": 26713,
+        "share": 2.3
+      }
+    ],
+    "state": "chhattisgarh",
+    "constituency": "kanker",
+    "evm_total": 1154829,
+    "post_total": 4364,
+    "total": 1159193
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "gopal prasad sahu",
+        "paty_name": "indian national congress",
+        "evm_votes": 249022,
+        "post_votes": 228,
+        "total_votes": 249250,
+        "share": 23.06
+      },
+      {
+        "candidate_name": "jayant sinha",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 727359,
+        "post_votes": 1439,
+        "total_votes": 728798,
+        "share": 67.42
+      },
+      {
+        "candidate_name": "bhubneshwar prasad mehta",
+        "paty_name": "communist party of india",
+        "evm_votes": 32074,
+        "post_votes": 35,
+        "total_votes": 32109,
+        "share": 2.97
+      },
+      {
+        "candidate_name": "vinod kumar",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 8768,
+        "post_votes": 25,
+        "total_votes": 8793,
+        "share": 0.81
+      },
+      {
+        "candidate_name": "krishan kumar singh",
+        "paty_name": "bharat prabhat party",
+        "evm_votes": 1688,
+        "post_votes": 2,
+        "total_votes": 1690,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "jagat kumar soni",
+        "paty_name": "bhartiya azad sena",
+        "evm_votes": 1527,
+        "post_votes": 0,
+        "total_votes": 1527,
+        "share": 0.14
+      },
+      {
+        "candidate_name": "bhawesh kumar mishra",
+        "paty_name": "bharatiya jan kranti dal (democratic)",
+        "evm_votes": 1840,
+        "post_votes": 2,
+        "total_votes": 1842,
+        "share": 0.17
+      },
+      {
+        "candidate_name": "misbahul islam",
+        "paty_name": "peoples party of india (democratic)",
+        "evm_votes": 1716,
+        "post_votes": 0,
+        "total_votes": 1716,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "md. mubarak",
+        "paty_name": "janata congress",
+        "evm_votes": 1795,
+        "post_votes": 7,
+        "total_votes": 1802,
+        "share": 0.17
+      },
+      {
+        "candidate_name": "rajni devi",
+        "paty_name": "jai prakash janata dal",
+        "evm_votes": 2131,
+        "post_votes": 6,
+        "total_votes": 2137,
+        "share": 0.2
+      },
+      {
+        "candidate_name": "rajesh ranjan",
+        "paty_name": "socialist unity centre of india (communist)",
+        "evm_votes": 2179,
+        "post_votes": 2,
+        "total_votes": 2181,
+        "share": 0.2
+      },
+      {
+        "candidate_name": "rameshwar ram kushwaha",
+        "paty_name": "all india forward bloc",
+        "evm_votes": 2393,
+        "post_votes": 3,
+        "total_votes": 2396,
+        "share": 0.22
+      },
+      {
+        "candidate_name": "gautam kumar",
+        "paty_name": "independent",
+        "evm_votes": 3046,
+        "post_votes": 2,
+        "total_votes": 3048,
+        "share": 0.28
+      },
+      {
+        "candidate_name": "tekochand mahto",
+        "paty_name": "independent",
+        "evm_votes": 5608,
+        "post_votes": 4,
+        "total_votes": 5612,
+        "share": 0.52
+      },
+      {
+        "candidate_name": "md. moin uddin ahmad",
+        "paty_name": "independent",
+        "evm_votes": 15659,
+        "post_votes": 1,
+        "total_votes": 15660,
+        "share": 1.45
+      },
+      {
+        "candidate_name": "ramavtar mahto",
+        "paty_name": "independent",
+        "evm_votes": 14826,
+        "post_votes": 3,
+        "total_votes": 14829,
+        "share": 1.37
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 7524,
+        "post_votes": 15,
+        "total_votes": 7539,
+        "share": 0.7
+      }
+    ],
+    "state": "jharkhand",
+    "constituency": "hazaribagh",
+    "evm_total": 1079155,
+    "post_total": 1774,
+    "total": 1080929
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "dr. antriksh saini",
+        "paty_name": "bahujan samaj party",
+        "evm_votes": 173169,
+        "post_votes": 359,
+        "total_votes": 173528,
+        "share": 13.65
+      },
+      {
+        "candidate_name": "ambrish kumar",
+        "paty_name": "indian national congress",
+        "evm_votes": 406264,
+        "post_votes": 681,
+        "total_votes": 406945,
+        "share": 32.02
+      },
+      {
+        "candidate_name": "ramesh pokhriyal 'nishank'",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 661050,
+        "post_votes": 4624,
+        "total_votes": 665674,
+        "share": 52.37
+      },
+      {
+        "candidate_name": "tribirendra singh rawat",
+        "paty_name": "uttarakhand kranti dal (democratic)",
+        "evm_votes": 3539,
+        "post_votes": 34,
+        "total_votes": 3573,
+        "share": 0.28
+      },
+      {
+        "candidate_name": "narendra chauhan",
+        "paty_name": "bhartiya sarvodaya party",
+        "evm_votes": 935,
+        "post_votes": 2,
+        "total_votes": 937,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "furkan ali advocate",
+        "paty_name": "pragatishil samajwadi party (lohia)",
+        "evm_votes": 705,
+        "post_votes": 2,
+        "total_votes": 707,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "bhanpal singh",
+        "paty_name": "bahujan mukti party",
+        "evm_votes": 801,
+        "post_votes": 2,
+        "total_votes": 803,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "reenu",
+        "paty_name": "hindusthan nirman dal",
+        "evm_votes": 884,
+        "post_votes": 13,
+        "total_votes": 897,
+        "share": 0.07
+      },
+      {
+        "candidate_name": "lalit kumar",
+        "paty_name": "peoples party of india (democratic)",
+        "evm_votes": 734,
+        "post_votes": 4,
+        "total_votes": 738,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "surendra kumar upadhayay",
+        "paty_name": "uttarakhand kranti dal",
+        "evm_votes": 1653,
+        "post_votes": 9,
+        "total_votes": 1662,
+        "share": 0.13
+      },
+      {
+        "candidate_name": "aadil",
+        "paty_name": "independent",
+        "evm_votes": 1315,
+        "post_votes": 4,
+        "total_votes": 1319,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "dharmendra",
+        "paty_name": "independent",
+        "evm_votes": 1133,
+        "post_votes": 1,
+        "total_votes": 1134,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "bachi singh",
+        "paty_name": "independent",
+        "evm_votes": 1365,
+        "post_votes": 2,
+        "total_votes": 1367,
+        "share": 0.11
+      },
+      {
+        "candidate_name": "thakur manish singh (verma) \"swabhimani\"",
+        "paty_name": "independent",
+        "evm_votes": 2910,
+        "post_votes": 3,
+        "total_votes": 2913,
+        "share": 0.23
+      },
+      {
+        "candidate_name": "shishupal singh",
+        "paty_name": "independent",
+        "evm_votes": 2549,
+        "post_votes": 3,
+        "total_votes": 2552,
+        "share": 0.2
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 6207,
+        "post_votes": 74,
+        "total_votes": 6281,
+        "share": 0.49
+      }
+    ],
+    "state": "uttarakhand",
+    "constituency": "hardwar",
+    "evm_total": 1265213,
+    "post_total": 5817,
+    "total": 1271030
+  },
+  {
+    "candidates": [
+      {
+        "candidate_name": "devaki vasudeva rao",
+        "paty_name": "bharatiya janata party",
+        "evm_votes": 20401,
+        "post_votes": 87,
+        "total_votes": 20488,
+        "share": 1.8
+      },
+      {
+        "candidate_name": "nama nageswr rao",
+        "paty_name": "telangana rashtra samithi",
+        "evm_votes": 566621,
+        "post_votes": 838,
+        "total_votes": 567459,
+        "share": 49.78
+      },
+      {
+        "candidate_name": "boda venkat",
+        "paty_name": "communist party of india  (marxist)",
+        "evm_votes": 57065,
+        "post_votes": 37,
+        "total_votes": 57102,
+        "share": 5.01
+      },
+      {
+        "candidate_name": "renuka chowdhury",
+        "paty_name": "indian national congress",
+        "evm_votes": 399008,
+        "post_votes": 389,
+        "total_votes": 399397,
+        "share": 35.04
+      },
+      {
+        "candidate_name": "umamaheswara rao cherukupalli",
+        "paty_name": "telangana yuva shakti",
+        "evm_votes": 3406,
+        "post_votes": 1,
+        "total_votes": 3407,
+        "share": 0.3
+      },
+      {
+        "candidate_name": "katta srinivas",
+        "paty_name": "yekikrutha sankshema rashtriya praja party",
+        "evm_votes": 1319,
+        "post_votes": 1,
+        "total_votes": 1320,
+        "share": 0.12
+      },
+      {
+        "candidate_name": "gopoju ramesh babu",
+        "paty_name": "telangana communist party of india",
+        "evm_votes": 1660,
+        "post_votes": 0,
+        "total_votes": 1660,
+        "share": 0.15
+      },
+      {
+        "candidate_name": "narala satyanarayana",
+        "paty_name": "janasena party",
+        "evm_votes": 19304,
+        "post_votes": 11,
+        "total_votes": 19315,
+        "share": 1.69
+      },
+      {
+        "candidate_name": "nageswara rao lakavath",
+        "paty_name": "bahujan mukti party",
+        "evm_votes": 1028,
+        "post_votes": 2,
+        "total_votes": 1030,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "venkateswar rao pullakhandam",
+        "paty_name": "pyramid party of india",
+        "evm_votes": 969,
+        "post_votes": 0,
+        "total_votes": 969,
+        "share": 0.09
+      },
+      {
+        "candidate_name": "anil kumar maddineni",
+        "paty_name": "independent",
+        "evm_votes": 871,
+        "post_votes": 1,
+        "total_votes": 872,
+        "share": 0.08
+      },
+      {
+        "candidate_name": "avutapalli rambabu",
+        "paty_name": "independent",
+        "evm_votes": 1154,
+        "post_votes": 0,
+        "total_votes": 1154,
+        "share": 0.1
+      },
+      {
+        "candidate_name": "koppula sreenivasarao",
+        "paty_name": "independent",
+        "evm_votes": 1797,
+        "post_votes": 0,
+        "total_votes": 1797,
+        "share": 0.16
+      },
+      {
+        "candidate_name": "gugulothu ramesh",
+        "paty_name": "independent",
+        "evm_votes": 2484,
+        "post_votes": 1,
+        "total_votes": 2485,
+        "share": 0.22
+      },
+      {
+        "candidate_name": "gokinapalli venkateswar rao",
+        "paty_name": "independent",
+        "evm_votes": 11517,
+        "post_votes": 3,
+        "total_votes": 11520,
+        "share": 1.01
+      },
+      {
+        "candidate_name": "gopagani shankara rao",
+        "paty_name": "independent",
+        "evm_votes": 9949,
+        "post_votes": 0,
+        "total_votes": 9949,
+        "share": 0.87
+      },
+      {
+        "candidate_name": "dunuku veladri",
+        "paty_name": "independent",
+        "evm_votes": 1506,
+        "post_votes": 0,
+        "total_votes": 1506,
+        "share": 0.13
+      },
+      {
+        "candidate_name": "parsagani nageswara rao",
+        "paty_name": "independent",
+        "evm_votes": 10148,
+        "post_votes": 0,
+        "total_votes": 10148,
+        "share": 0.89
+      },
+      {
+        "candidate_name": "palvancha ramarao",
+        "paty_name": "independent",
+        "evm_votes": 2736,
+        "post_votes": 3,
+        "total_votes": 2739,
+        "share": 0.24
+      },
+      {
+        "candidate_name": "bhanala laxmana chary",
+        "paty_name": "independent",
+        "evm_votes": 4704,
+        "post_votes": 0,
+        "total_votes": 4704,
+        "share": 0.41
+      },
+      {
+        "candidate_name": "mutyam arjuna raju",
+        "paty_name": "independent",
+        "evm_votes": 2220,
+        "post_votes": 0,
+        "total_votes": 2220,
+        "share": 0.19
+      },
+      {
+        "candidate_name": "laxma naik banoth",
+        "paty_name": "independent",
+        "evm_votes": 732,
+        "post_votes": 2,
+        "total_votes": 734,
+        "share": 0.06
+      },
+      {
+        "candidate_name": "sanjeeva rao nakirikanti",
+        "paty_name": "independent",
+        "evm_votes": 2024,
+        "post_votes": 0,
+        "total_votes": 2024,
+        "share": 0.18
+      },
+      {
+        "candidate_name": "nota",
+        "paty_name": "none of the above",
+        "evm_votes": 15802,
+        "post_votes": 30,
+        "total_votes": 15832,
+        "share": 1.39
+      }
+    ],
+    "state": "telangana",
+    "constituency": "khammam",
+    "evm_total": 1138425,
+    "post_total": 1406,
+    "total": 1139831
+  }
+]
