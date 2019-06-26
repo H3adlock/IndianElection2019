@@ -22,11 +22,12 @@ results = list()
 for state in states:
     for constituency_code in range(1, 99):
         url = base_url + state + str(constituency_code) + '.htm?ac=' + str(constituency_code)
+
         response = requests.get(url)
 
-        if NOT_FOUND == response.status_code:
+        if response.status_code == NOT_FOUND:
             break
-
+        print(url)
         response_text = response.text
         soup = BeautifulSoup(response_text, 'lxml')
         tbodies = list(soup.find_all('tbody'))
@@ -75,10 +76,10 @@ for state in states:
 
             seat['candidates'].append(candidate)
 
-    # print(json.dumps(seat, indent=2))
-    results.append(seat)
-    print("Collected data for", seat['state'], state, seat['constituency'], constituency_code, len(results))
-    time.sleep(0.5)
+         # print(json.dumps(seat, indent=2))
+        results.append(seat)
+        print("Collected data for", seat['state'], state, seat['constituency'], constituency_code, len(results))
+        time.sleep(0.5)
 
 with open("election_data.json", "a+") as f:
     f.write(json.dumps(results, indent=2))
