@@ -22,3 +22,18 @@ results = list()
 for state in  states:
     for constituency_code in range(1,99):
     url = base_url +  state + str(constituency_code) + '.htm?ac=' + str(constituency_code)
+    response = requests.get(url)
+
+    if NOT_FOUND == response.status_code:
+        break
+
+    response_text = response.text
+    soup = BeautifulSoup(response_text,'lxml')
+    tbodies = list(soup.find_all('tbody'))
+    tbody = tbodies[10]
+    trs = list(tbody.find_all('tr'))
+
+    seat = dict()
+    seat['candidates'] = list()
+    for tr_index, tr in enumerate(trs):
+        if tr_index == 0:
