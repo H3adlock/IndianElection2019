@@ -9,7 +9,9 @@ from bs4 import BeautifulSoup
 import json
 from lxml import html
 import time
-
+import pandas as pd
+import numpy as np
+import matplotlib as plt
 
 NOT_FOUND = 404
 
@@ -83,3 +85,4 @@ for state in states:
 
 with open("election_data.json", "a+") as f:
     f.write(json.dumps(results, indent=2))
+
